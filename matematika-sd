@@ -1,0 +1,122 @@
+{
+  "tka_matematika_sd_mi": {
+    "definisi": "TKA Matematika SD/MI/sederajat mengukur kemampuan murid dalam memahami fakta, konsep, prinsip, dan prosedur matematika, serta kemampuan mereka dalam menerapkan pengetahuan matematika untuk menyelesaikan masalah (problem solving).",
+    "muatan": [
+      "Bilangan",
+      "Geometri dan Pengukuran",
+      "Data"
+    ],
+    "kompetensi": {
+      "deskripsi": "Pengetahuan matematika diukur melalui permasalahan dalam konteks matematika dan permasalahan dalam konteks keseharian yang dapat meliputi kejadian atau situasi di lingkup personal, keluarga, atau lingkungan sekitar.",
+      "aspek_yang_diukur": [
+        "Pengetahuan matematika",
+        "Representasi matematis",
+        "Penalaran",
+        "Pecahan masalah matematis",
+        "Koneksi matematis"
+      ]
+    },
+    "kisi_kisi": [
+      {
+        "no": 1,
+        "elemen_materi": "Bilangan",
+        "sub_elemen_materi": "Bilangan Rasional",
+        "kompetensi": "Memahami, mengaplikasikan, dan bernalar yang lebih tinggi untuk menyelesaikan permasalahan terkait cakupan sub-elemen berikut:\n• Pecahan senilai menggunakan gambar dan simbol matematika;\n• Perbandingan dan pengurutan bilangan pecahan;\n• Relasi berbagai bentuk pecahan (pecahan sederhana, desimal, persen);\n• Operasi penjumlahan, pengurangan, perkalian, dan pembagian bilangan cacah;\n• Operasi penjumlahan dan pengurangan bilangan pecahan, serta operasi perkalian dan pembagian bilangan pecahan dengan bilangan asli;\n• Kelipatan, faktor, KPK, dan FPB bilangan asli.",
+        "batasan_catatan": ""
+      },
+      {
+        "no": 2,
+        "elemen_materi": "Geometri dan Pengukuran",
+        "sub_elemen_materi": "Objek Geometri",
+        "kompetensi": "Memahami, mengaplikasikan, dan bernalar yang lebih tinggi untuk menyelesaikan permasalahan terkait cakupan sub-elemen berikut:\n• Bentuk bangun datar;\n• Konstruksi bangun ruang dan visualisasi spasial (bagian depan, atas, dan samping).",
+        "batasan_catatan": "Bangun datar mencakup segitiga, segiempat, dan segi banyak.\n\nBangun ruang mencakup kubus, balok, dan gabungannya."
+      },
+      {
+        "no": 3,
+        "elemen_materi": "Geometri dan Pengukuran",
+        "sub_elemen_materi": "Pengukuran",
+        "kompetensi": "Memahami, mengaplikasikan, dan bernalar yang lebih tinggi untuk menyelesaikan permasalahan terkait cakupan sub-elemen berikut:\n• Panjang benda menggunakan satuan baku;\n• Hubungan antar-satuan Baku panjang (mm, dm, cm, m, dam, hm, km);\n• Volume benda menggunakan satuan baku;\n• Hubungan antar-satuan baku volume (ml, dl, cl, l, dal, hl, kl);\n• Berat benda menggunakan satuan baku;\n• Hubungan antar-satuan baku berat (mg, dg, cg, g, dag, hg, kg);\n• Waktu;\n• Hubungan antar-satuan waktu (detik, menit, jam, hari, pekan, bulan, tahun);\n• Laju perubahan (kecepatan);\n• Keliling dan luas bangun datar (segitiga, segiempat, dan segi banyak);\n• Volume bangun ruang (kubus, balok, dan gabungannya);\n• Besar sudut;\n• Penaksiran ukuran.",
+        "batasan_catatan": ""
+      },
+      {
+        "no": 4,
+        "elemen_materi": "Data",
+        "sub_elemen_materi": "Penyajian dan Penggunaan Data",
+        "kompetensi": "Memahami, mengaplikasikan, dan bernalar yang lebih tinggi untuk menyelesaikan permasalahan terkait cakupan sub-elemen berikut:\n• Penyajian data (gambar, piktogram, diagram batang, dan tabel frekuensi);\n• Pengambilan informasi dan penggunaan data.",
+        "batasan_catatan": ""
+      }
+    ],
+    "soal": [
+      {
+        "no_soal": 1,
+        "kompetensi": "Memahami, mengaplikasikan, dan bernalar yang lebih tinggi untuk menyelesaikan permasalahan terkait operasi penjumlahan dan pengurangan bilangan pecahan, serta operasi perkalian dan pembagian bilangan.",
+        "sub_kompetensi": "",
+        "bentuk_soal": "Pilihan Ganda (PG)",
+        "kunci": "A",
+        "teks_soal": "120% - 3 + 2 \\times 0,75 + \\frac{2}{3} = \\dots",
+        "pilihan_jawaban": [
+          "11/30",
+          "49/60",
+          "31/30",
+          "98/60"
+        ]
+      },
+      {
+        "no_soal": 2,
+        "kompetensi": "Memahami, mengaplikasikan, dan bernalar yang lebih tinggi untuk menyelesaikan permasalahan terkait operasi penjumlahan dan pengurangan bilangan pecahan, serta operasi perkalian dan pembagian bilangan.",
+        "sub_kompetensi": "",
+        "bentuk_soal": "Pilihan Ganda (PG)",
+        "kunci": "C",
+        "teks_soal": "Menjelang tahun ajaran baru, Toko Buku Ceria memberikan diskon 10% untuk semua jenis buku. Diketahui harga buku gambar adalah 1/2 dari harga buku komik. Harga buku tulis adalah 0,75 kali harga buku komik. Diketahui harga buku komik adalah Rp24.000,00. Harga buku gambar dan buku tulis setelah dikenakan diskon adalah ....",
+        "pilihan_jawaban": [
+          "Rp18.000,00",
+          "Rp24.000,00",
+          "Rp27.000,00",
+          "Rp30.000,00"
+        ]
+      },
+      {
+        "no_soal": 3,
+        "kompetensi": "Memahami, mengaplikasikan, dan bernalar yang lebih tinggi untuk menyelesaikan permasalahan terkait operasi penjumlahan dan pengurangan bilangan pecahan, serta operasi perkalian dan pembagian bilangan pecahan dengan bilangan asli",
+        "sub_kompetensi": "",
+        "bentuk_soal": "PGK Kategori",
+        "kunci": {
+          "A": "Benar",
+          "B": "Benar",
+          "C": "Salah"
+        },
+        "teks_soal": "Pak Bondan seorang penjual susu kedelai. Suatu hari, Pak Bondan memproduksi susu kedelai sebanyak 7 wadah yang masing-masing berisi 6 1/4 liter susu kedelai. Seluruh hasil produksi tersebut akan dituangkan ke dalam 50 botol besar dengan isi yang sama banyak dan ke dalam 15 botol kecil dengan isi setiap botolnya adalah setengah botol besar. Tentukan Benar atau Salah untuk setiap pernyataan berikut tentang hasil produksi susu kedelai Pak Bondan!",
+        "pernyataan": [
+          {
+            "id": "A",
+            "teks": "Pada hari itu Pak Bondan memproduksi 43 3/4 liter susu kedelai."
+          },
+          {
+            "id": "B",
+            "teks": "Setiap botol besar diisi susu kedelai sebanyak 35/46 liter."
+          },
+          {
+            "id": "C",
+            "teks": "Total susu kedelai yang dikemas dalam botol kecil adalah 525/46 liter."
+          }
+        ]
+      },
+      {
+        "no_soal": 5,
+        "kompetensi": "Memahami, mengaplikasikan, dan bernalar yang lebih tinggi untuk menyelesaikan permasalahan terkait hubungan antar-satuan baku berat (mg, dg, cg, g, dag, hg, kg).",
+        "sub_kompetensi": "",
+        "bentuk_soal": "PGK MCMA",
+        "kunci": [
+          "Pernyataan 1",
+          "Pernyataan 3"
+        ],
+        "teks_soal": "Setiap bulan Ramadan, SD Harapan mengadakan bakti sosial. Mereka membagi sembako yang berisi 3 kg beras, dua bungkus gula pasir dengan berat masing-masing kemasan 5 hg, dan lima bungkus mi instan dengan berat per bungkus 85 g. Pilihlah pernyataan yang benar sesuai dengan informasi tersebut! Jawaban benar lebih dari satu.",
+        "pilihan_jawaban": [
+          "Total berat semua isi paket adalah 4.425 gram.",
+          "Berat mi instan dalam paket tersebut lebih dari 0,5 kilogram.",
+          "Satu kemasan gula pasir lebih berat dibandingkan seluruh mi instan."
+        ]
+      }
+    ]
+  }
+}
