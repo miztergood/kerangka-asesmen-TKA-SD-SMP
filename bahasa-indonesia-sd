@@ -1,134 +1,157 @@
 {
-  "panduan_tka_smp": {
+  "panduan_tka_sd": {
     "definisi": {
-      [cite_start]"fokus_utama": "Tes Kemampuan Akademik (TKA) Bahasa Indonesia SMP/MTs/sederajat difokuskan pada keterampilan membaca, sebagaimana pada jenjang SD/MI. [cite: 3]",
-      [cite_start]"alasan": "Keterampilan membaca dipilih sebagai fokus utama karena penting untuk mendukung pembelajaran di era yang terus berkembang pesat. [cite: 4]"
+      "fokus_utama": "Tes Kemampuan Akademik (TKA) Bahasa Indonesia SD/MI/sederajat difokuskan pada satu keterampilan utama berbahasa, yaitu membaca.",
+      "alasan": "Membaca dipilih sebagai fokus utama karena merupakan keterampilan dasar untuk dapat terus belajar dan bekerja, khususnya di era teknologi yang terus berubah dan berkembang sangat cepat."
     },
     "muatan": {
       "jenis_teks": [
-        [cite_start]"Teks informasi merupakan teks yang berisi fakta, konsep, atau prosedur dari berbagai bidang atau topik yang berskala lokal, nasional, atau global. [cite: 8] [cite_start]Teks informasi dapat berupa teks tunggal maupun teks jamak. [cite: 9]",
-        [cite_start]"Teks fiksi merupakan cerita rekaan yang dapat bersifat faktual (sejarah/biografi) atau realisme dengan latar cerita konkret atau abstrak, tokoh berkarakter bulat, konflik tunggal atau jamak dengan penyelesaian tertutup, alur campuran, dan sudut pandang orang ketiga. [cite: 10]"
+        "Teks informasi merupakan teks yang berisi fakta sederhana dari berbagai bidang atau topik serta berskala lokal dan nasional.",
+        "Teks fiksi merupakan cerita rekaan yang dapat berupa fantasi atau faktual (sejarah/biografi) dengan latar cerita konkret, tokoh berkarakter datar, konflik tunggal dengan penyelesaian tertutup, alur maju, dan sudut pandang orang pertama."
       ],
       "karakteristik_teks": {
-        [cite_start]"kosakata": "Karakteristik kosakata: kata umum, kata berimbuhan/konfiks, kata abstrak, makna denotatif, istilah teknis, makna konotatif konteks tertentu. [cite: 12]",
-        [cite_start]"kalimat": "Karakteristik kalimat: jumlah kata per kalimat 5-9 kata, kalimat tunggal berbagai pola, kalimat majemuk setara. [cite: 13]",
-        [cite_start]"wacana": "Karakteristik wacana: kohesi penyulihan/substitusi, konjungsi antarparagraf perbandingan dan penekanan/intensifikasi, penggunaan tanda baca untuk mendukung deskripsi, panjang teks 200-250 kata (kecuali teks puisi). [cite: 14]"
+        "kosakata": "Karakteristik kosakata: kata dasar, kata berimbuhan, kata konkret, dominan makna denotatif, makna konotatif konteks terbatas.",
+        "kalimat": "Karakteristik kalimat: jumlah kata 3-7 per kalimat, pola kalimat dasar SPOK, struktur bahasa tulis bercampur bahasa lisan terbatas.",
+        "wacana": "Karakteristik wacana: kohesi pengacuan/referensi, konjungsi antarparagraf penambahan/penjelasan; panjang teks 150-200 kata (kecuali teks puisi)."
       }
     },
     "kompetensi": [
       {
         "nama": "Pemahaman tekstual",
-        [cite_start]"deskripsi": "Kemampuan untuk memahami informasi yang dikemukakan secara eksplisit, mengelompokkan, menyusun ulang, dan menyajikan kembali informasi secara eksplisit dari teks. [cite: 25]"
+        "deskripsi": "Pemahaman tekstual, yaitu kemampuan untuk memahami informasi yang dikemukakan secara eksplisit, mengelompokkan, menyusun ulang, dan menyajikan kembali informasi secara eksplisit dari teks."
       },
       {
         "nama": "Pemahaman inferensial",
-        [cite_start]"deskripsi": "Kemampuan untuk menarik kesimpulan berdasarkan informasi yang tersirat dalam teks. [cite: 26]"
+        "deskripsi": "Pemahaman inferensial, yaitu kemampuan untuk menarik kesimpulan berdasarkan informasi yang tersirat dalam teks."
       },
       {
         "nama": "Evaluasi dan apresiasi",
-        [cite_start]"deskripsi": "Kemampuan untuk membuat penilaian terhadap ide, menanggapi teks secara emosional dan estetis dengan mempertimbangkan dampaknya terhadap perasaan, imajinasi, serta penggunaan bahasa oleh penulis. [cite: 27]"
+        "deskripsi": "Evaluasi dan apresiasi, yaitu kemampuan untuk membuat penilaian terhadap ide, menanggapi teks secara emosional dan estetis dengan mempertimbangkan dampaknya terhadap perasaan, imajinasi, serta penggunaan bahasa oleh penulis."
       }
     ],
     "matriks_asesmen": [
       {
         "kompetensi": "Pemahaman Tekstual",
         "subkompetensi": [
-          [cite_start]"Mengidentifikasi penggunaan istilah dalam berbagai bidang. [cite: 29]",
-          [cite_start]"Mengidentifikasi objek dan/atau latar berdasarkan kosakata yang digunakan dalam teks fiksi atau nonfiksi. [cite: 29]",
-          [cite_start]"Mengidentifikasi informasi penting yang tersurat dalam teks. [cite: 29]",
-          [cite_start]"Menyusun kerangka atau bagan berdasarkan bagian-bagian penting dalam teks. [cite: 29]"
+          "Mengidentifikasi penggunaan kosakata umum dan khusus dalam berbagai bidang.",
+          "Mengidentifikasi objek berdasarkan kosakata yang digunakan dalam teks fiksi atau nonfiksi.",
+          "Menyusun kembali informasi dari teks dalam bentuk ikhtisar/bagan.",
+          "Mengidentifikasi informasi tersurat dalam teks."
         ]
       },
       {
         "kompetensi": "Pemahaman Inferensial",
         "subkompetensi": [
-          [cite_start]"Menyimpulkan ide pokok, gagasan pendukung, tokoh, peristiwa, latar, dan/atau nilai-nilai dalam dan/atau antarteks. [cite: 29]",
-          [cite_start]"Menjelaskan kelogisan hubungan antarperistiwa, antargagasan, dan/atau antarinformasi dalam dan/atau antarteks. [cite: 29]",
-          [cite_start]"Memprediksi peristiwa dalam teks. [cite: 29]",
-          [cite_start]"Menjelaskan bahasa kias dan citraan yang digunakan dalam teks fiksi. [cite: 30]"
+          "Menyimpulkan ide pokok, gagasan pendukung, amanat, tokoh, peristiwa, dan/atau nilai-nilai dalam teks.",
+          "Menyimpulkan perubahan sederhana pada objek, karakter, dan/atau latar dalam teks fiksi atau nonfiksi.",
+          "Menjelaskan makna ungkapan yang digunakan dalam teks."
         ]
       },
       {
         "kompetensi": "Evaluasi dan Apresiasi",
         "subkompetensi": [
-          [cite_start]"Menilai relevansi peristiwa dalam teks dengan kehidupan sehari-hari. [cite: 30]",
-          [cite_start]"Menilai kesesuaian dan/atau keakuratan unsur, kebahasaan, atau isi berdasarkan perbandingan informasi dalam dan/atau antarteks. [cite: 30]",
-          [cite_start]"Menyimpulkan respons emosional terhadap unsur teks fiksi. [cite: 30]"
+          "Menilai relevansi peristiwa dalam teks dengan kehidupan sehari-hari berdasarkan pengalaman atau pengetahuan pribadi.",
+          "Menilai kesesuaian antarunsur dan/atau antarinformasi dalam teks.",
+          "Menyimpulkan respons emosional terhadap unsur teks fiksi."
         ]
       }
     ],
     "kumpulan_contoh_soal": [
       {
-        "bacaan_stimulus": [
-          {
-            "judul": "Pantai Glagah",
-            [cite_start]"isi_teks": "Pantai Glagah di Kulon Progo adalah salah satu pantai unik di selatan Yogyakarta. [cite: 34] [cite_start]Pasir hitamnya memberi kesan eksotis yang berbeda dari pantai lainnya. [cite: 35] [cite_start]Ombak besar yang menerjang pemecah gelombang menciptakan suasana alam yang menakjubkan. [cite: 36] [cite_start]Di sisi timur, terdapat laguna tenang yang cocok untuk wisata keluarga, terutama anak-anak. [cite: 37] [cite_start]Akses menuju pantai ini cukup mudah dari pusat Kota Yogyakarta. [cite: 38] [cite_start]Fasilitasnya lengkap, seperti area parkir luas, warung makan, dan tempat duduk untuk bersantai. [cite: 39] [cite_start]Ketika senja tiba, suasana menjadi lebih indah dengan langit yang memerah dan matahari terbenam perlahan di cakrawala. [cite: 40] Namun, pengunjung tidak disarankan berenang karena ombaknya cukup ganas. [cite_start]Beberapa sudut pantai juga terlihat kurang bersih. [cite: 41] [cite_start]Meski begitu, Pantai Glagah tetap menjadi tempat menenangkan diri. [cite: 42]"
-          },
-          {
-            "judul": "Pantai Drini, Gunung Kidul",
-            "penulis": "Noordin Ahya - WartaKU",
-            [cite_start]"tanggal": "Senin, 23 April 2025 11:04 WIB [cite: 46]",
-            [cite_start]"isi_teks": "Pantai Drini di Gunung Kidul tuh beneran hidden gem yang wajib masuk bucket list liburan kamu! [cite: 47] [cite_start]Nggak cuma karena pasir putih dan air lautnya yang bening banget, tapi juga karena pulau karang kecil yang unik. [cite: 48] [cite_start]Pulau itu seperti pemisah dua dunia-satu sisi ombaknya tenang, sisi lainnya agak liar. [cite: 49] [cite_start]Serasa lagi liat dua kepribadian alam yang beda tapi tetap satu kesatuan. [cite: 50] [cite_start]Yang bikin makin seru, kamu bisa jalan kaki ke pulau karangnya pas air laut surut. [cite: 51] View dari atas cakep banget buat foto, apalagi pas golden hour. [cite_start]Banyak banget sudut estetis yang bisa kamu eksplor. [cite: 52] Fasilitas di sini juga udah lumayan oke. [cite_start]Ada warung makan, parkiran luas, dan tempat duduk buat santai-santai. [cite: 53] [cite_start]Pantai Drini tuh ibarat tempat nongkrongnya laut dan langit- sederhana, tapi punya vibes yang nggak bisa dibeli. [cite: 54] [cite_start]Sekali datang, rasanya pengen balik lagi buat nyari tenang dalam riuhnya dunia. [cite: 55]"
-          }
-        ],
+        "bacaan_stimulus": {
+          "judul": "Danau untuk Semua",
+          "isi_teks": "Di hutan ada sebuah danau tempat semua binatang minum. Suatu pagi, air danau menjadi kotor karena Rino si badak berendam di dalamnya. Binatang-binatang lain jadi tidak bisa minum. Namun, mereka takut menegur Rino karena badannya besar dan bercula. Mereka diam seribu bahasa. Rino malah merasa bangga karena jadi pusat perhatian. Esoknya, Rino masih berendam. Binatang-binatang makin kehausan. \"Aduh, bagaimana ini?\" ujar Bani si kelinci. Hewan lain juga mulai gelisah. Binatang-binatang hutan pun berkumpul dan bermusyawarah. Hari si harimau mengusulkan agar meminta bantuan Ucil si kancil. \"Setuju!!\" semua binatang berteriak antusias. Ucil menemui Rino. \"Selamat siang. Maaf mengganggu Tuan. Ada kabar penting,\" kata Ucil dengan lembut. Rino segera bangun. la merasa tersanjung dengan ucapan Ucil. \"Kabar penting? Cepat bicara!\" kata Rino. \"Hamba kasihan kepada Tuan. Badan besar berendam di danau kecil. Tidak pantas, Tuan. Oh ya, ada makhluk yang menutup jalan air supaya tidak mengalir. Sayang, makhluk itu tidak kelihatan oleh mata kita, dia makhluk gaib,\" lanjut Ucil. Rino mengerutkan dahinya. \"Percayalah, Tuan,\" bujuk Ucil. Rino segera berjalan menuju pohon nangka. la pun mengawasi pohon itu selama setengah hari. Sementara itu, binatang yang lain bergantian datang untuk minum air danau. Rino selesai mengawasi pohon nangka. la kembali menuju danau. Sementara, binatang lainnya sudah meninggalkan danau. Mereka sudah tidak haus lagi."
+        },
         "daftar_soal": [
           {
             "no_soal": 1,
             "metadata": {
-              [cite_start]"kompetensi": "Pemahaman Tekstual [cite: 56]",
-              [cite_start]"sub_kompetensi": "Mengidentifikasi objek dan/atau latar berdasarkan kosakata yang digunakan dalam teks fiksi atau nonfiksi. [cite: 56]",
-              [cite_start]"bentuk_soal": "Pilihan Ganda (PG) [cite: 56]"
+              "kompetensi": "Pemahaman Tekstual",
+              "sub_kompetensi": "Mengidentifikasi informasi tersurat dalam teks.",
+              "bentuk_soal": "Pilihan Ganda (PG)",
+              "kunci_jawaban": "D"
             },
-            [cite_start]"pertanyaan": "Kosakata yang menggambarkan keserasian suara deburan alam pada teks ulasan ke-1 ditunjukkan pada frasa [cite: 57]",
+            "pertanyaan": "Siapa yang memiliki usul untuk meminta bantuan hewan yang cerdik?",
             "pilihan_jawaban": [
-              [cite_start]"A. alternatif wisata [cite: 58]",
-              [cite_start]"B. kanvas alam [cite: 59]",
-              [cite_start]"C. panggung cahaya [cite: 60]",
-              [cite_start]"D. harmoni alam [cite: 61]"
+              "A. Bani",
+              "B. Ucil",
+              "C. Rino",
+              "D. Hari"
             ]
           },
           {
             "no_soal": 2,
             "metadata": {
-              [cite_start]"kompetensi": "Pemahaman Inferensial [cite: 62]",
-              [cite_start]"sub_kompetensi": "Menjelaskan kelogisan hubungan antarperistiwa, antargagasan, dan/atau antarinformasi dalam dan/atau antarteks [cite: 62]",
-              [cite_start]"bentuk_soal": "PGK MCMA [cite: 62]",
-              [cite_start]"kunci_jawaban": "A, C [cite: 62]"
+              "kompetensi": "Pemahaman Inferensial",
+              "sub_kompetensi": "Menjelaskan makna ungkapan yang digunakan dalam teks.",
+              "bentuk_soal": "Pilihan Ganda (PG)",
+              "kunci_jawaban": "B"
             },
-            "pertanyaan": "Apa saja perbedaan informasi yang ada pada kedua teks tersebut? Pilihlah jawaban yang benar! [cite_start]Jawaban benar lebih dari satu. [cite: 63]",
-            "pilihan_jawaban_checkbox": [
-              [cite_start]"Kemudahan akses. [cite: 66]",
-              [cite_start]"Fasilitas yang tersedia. [cite: 67]",
-              [cite_start]"Tempat untuk berfoto. [cite: 68]",
-              [cite_start]"Keindahan saat senja. [cite: 70]"
+            "pertanyaan": "\"Mereka diam seribu bahasa.\" Apa arti \"diam seribu bahasa\" pada teks fabel tersebut?",
+            "pilihan_jawaban": [
+              "A. Para binatang di hutan tidak mampu melakukan sesuatu.",
+              "B. Semua binatang di hutan menahan untuk tidak berkomentar.",
+              "C. Penghuni hutan tidak mau mendengarkan pendapat orang lain.",
+              "D. Binatang-binatang di hutan tidak mengetahui masalah yang terjadi."
             ]
           },
           {
             "no_soal": 3,
             "metadata": {
-              [cite_start]"kompetensi": "Evaluasi dan Apresiasi [cite: 74]",
-              [cite_start]"sub_kompetensi": "Menilai kesesuaian dan/atau keakuratan unsur, kebahasaan, atau isi berdasarkan perbandingan informasi dalam dan/atau antarteks. [cite: 74]",
-              [cite_start]"bentuk_soal": "PGK Kategori [cite: 74]",
-              [cite_start]"kunci_jawaban": "Benar, Salah, Salah [cite: 74]"
+              "kompetensi": "Evaluasi dan Apresiasi",
+              "sub_kompetensi": "Menilai relevansi peristiwa dalam teks dengan kehidupan sehari-hari berdasarkan pengalaman atau pengetahuan pribadi.",
+              "bentuk_soal": "PGK Kategori",
+              "kunci_jawaban": "Pernyataan A. Tidak Sesuai B. Sesuai C. Sesuai"
             },
-            "bacaan_tambahan": "Banu: Aku lebih suka membaca ulasan pada teks 2 rasanya lebih dekat denganku. Aku jadi ingin ke sana! [cite_start]Teks ulasan 2 sangat menarik! [cite: 71, 72] [cite_start]Komar: Justru aku lebih suka ulasan pada teks 1 karena sangat jelas dan menarik minatku untuk mengunjungi pantai itu. [cite: 73]",
-            "pertanyaan": "Mengapa pernyataan Banu lebih tepat untuk menggambarkan keunggulan teks ulasan kedua yang tidak ada pada teks ulasan pertama? [cite_start]Tentukan Benar atau Salah untuk setiap pernyataan berikut! [cite: 75, 76]",
+            "pertanyaan": "Apa contoh peristiwa yang dapat ditemukan dalam kehidupan sehari-hari berdasarkan kejadian yang dialami Ucil pada cerita tersebut? Tentukan Sesuai atau Tidak Sesuai untuk setiap pernyataan berikut!",
             "tabel_pernyataan": [
               {
                 "label": "A",
-                [cite_start]"pernyataan": "Gaya penyajian teks menggunakan bahasa nonformal sehingga lebih santai. [cite: 77]",
-                "pilihan": ["Benar", "Salah"]
+                "pernyataan": "Tita memberi ide cemerlang yang dapat dilakukan oleh teman-teman di kelas.",
+                "pilihan": [
+                  "Sesuai",
+                  "Tidak Sesuai"
+                ]
               },
               {
                 "label": "B",
-                [cite_start]"pernyataan": "Penyajian gambar pada teks yang membuat pembaca lebih tertarik membaca [cite: 77]",
-                "pilihan": ["Benar", "Salah"]
+                "pernyataan": "Jani menghargai kepercayaan yang diberikan teman-teman sekelas kepada dirinya.",
+                "pilihan": [
+                  "Sesuai",
+                  "Tidak Sesuai"
+                ]
               },
               {
                 "label": "C",
-                [cite_start]"pernyataan": "Akhir ulasan dilengkapi kalimat ajakan kepada pembaca untuk mengunjungi pantai. [cite: 77]",
-                "pilihan": ["Benar", "Salah"]
+                "pernyataan": "Nina bertanggung jawab dalam menjalankan tugas yang dipercayakan kepadanya.",
+                "pilihan": [
+                  "Sesuai",
+                  "Tidak Sesuai"
+                ]
               }
+            ]
+          }
+        ]
+      },
+      {
+        "bacaan_stimulus": {
+          "judul": "Hewan Pemakan Daun, Apa Itu?",
+          "isi_teks": "Hewan bisa dibagi menjadi tiga kelompok berdasarkan makanan mereka. Karnivora, hewan pemakan daging. Contoh hewan karnivora adalah singa. Selanjutnya herbivora, yaitu hewan pemakan tumbuhan. Sapi adalah contoh hewan herbivora. Terakhir, hewan omnivora, yaitu hewan pemakan daging dan tumbuhan, seperti beruang. Dari kelompok herbivora, ada hewan yang hanya makan daun saja. Mereka disebut folivora. Hewan folivora hanya makan daun untuk hidup. Namun, daun itu susah untuk dicerna, apalagi kalau sudah tua. Kadang-kadang daun juga mengandung zat yang bisa berbahaya. Agar bisa mencerna daun, tubuh hewan folivora punya cara khusus. Mereka punya usus yang panjang agar makanan bisa diproses lebih lama. Tubuh hewan folivora bekerja lebih lambat, jadi tidak terlalu banyak bergerak. Di dalam perut hewan folivora juga ada bakteri baik yang membantu mencerna daun. Beberapa hewan folivora lebih suka daun muda karena lebih lembut dan mudah dimakan. Ada beberapa contoh hewan folivora yang hidup di alam. Misalnya, panda yang makan daun bambu. Ada juga koala yang makan daun eukaliptus. Mereka tinggal di hutan dan sangat bergantung pada daun untuk makan. Karena itu, hutan tempat mereka tinggal harus dijaga supaya mereka bisa terus hidup."
+        },
+        "daftar_soal": [
+          {
+            "no_soal": 4,
+            "metadata": {
+              "kompetensi": "Pemahaman Tekstual",
+              "sub_kompetensi": "Mengidentifikasi informasi tersurat dalam teks.",
+              "bentuk_soal": "PGK MCMA",
+              "kunci_jawaban": "B, C"
+            },
+            "pertanyaan": "Apa saja contoh hewan folivora berdasarkan informasi tersebut? Pilihlah jawaban yang benar! Jawaban benar lebih dari satu.",
+            "pilihan_jawaban_checkbox": [
+              "Sapi",
+              "Koala",
+              "Panda"
             ]
           }
         ]
