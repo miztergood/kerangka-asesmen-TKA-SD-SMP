@@ -1,0 +1,421 @@
+{
+  "tka_matematika_sd_mi": {
+    "definisi": "TKA Matematika SD/MI/sederajat mengukur kemampuan murid dalam memahami fakta, konsep, prinsip, dan prosedur matematika, serta kemampuan mereka dalam menerapkan pengetahuan matematika untuk menyelesaikan masalah (problem solving).",
+    "muatan": [
+      "Bilangan",
+      "Geometri dan Pengukuran",
+      "Data"
+    ],
+    "kompetensi": {
+      "deskripsi": "Pengetahuan matematika diukur melalui permasalahan dalam konteks matematika dan permasalahan dalam konteks keseharian yang dapat meliputi kejadian atau situasi di lingkup personal, keluarga, atau lingkungan sekitar.",
+      "aspek_yang_diukur": [
+        "Pengetahuan matematika",
+        "Representasi matematis",
+        "Penalaran",
+        "Pecahan masalah matematis",
+        "Koneksi matematis"
+      ]
+    },
+    "kisi_kisi": [
+      {
+        "no": 1,
+        "elemen_materi": "Bilangan",
+        "sub_elemen_materi": "Bilangan Rasional",
+        "kompetensi": "Memahami, mengaplikasikan, dan bernalar yang lebih tinggi untuk menyelesaikan permasalahan terkait cakupan sub-elemen berikut:\n• Pecahan senilai menggunakan gambar dan simbol matematika;\n• Perbandingan dan pengurutan bilangan pecahan;\n• Relasi berbagai bentuk pecahan (pecahan sederhana, desimal, persen);\n• Operasi penjumlahan, pengurangan, perkalian, dan pembagian bilangan cacah;\n• Operasi penjumlahan dan pengurangan bilangan pecahan, serta operasi perkalian dan pembagian bilangan pecahan dengan bilangan asli;\n• Kelipatan, faktor, KPK, dan FPB bilangan asli.",
+        "batasan_catatan": ""
+      },
+      {
+        "no": 2,
+        "elemen_materi": "Geometri dan Pengukuran",
+        "sub_elemen_materi": "Objek Geometri",
+        "kompetensi": "Memahami, mengaplikasikan, dan bernalar yang lebih tinggi untuk menyelesaikan permasalahan terkait cakupan sub-elemen berikut:\n• Bentuk bangun datar;\n• Konstruksi bangun ruang dan visualisasi spasial (bagian depan, atas, dan samping).",
+        "batasan_catatan": "Bangun datar mencakup segitiga, segiempat, dan segi banyak.\n\nBangun ruang mencakup kubus, balok, dan gabungannya."
+      },
+      {
+        "no": 3,
+        "elemen_materi": "Geometri dan Pengukuran",
+        "sub_elemen_materi": "Pengukuran",
+        "kompetensi": "Memahami, mengaplikasikan, dan bernalar yang lebih tinggi untuk menyelesaikan permasalahan terkait cakupan sub-elemen berikut:\n• Panjang benda menggunakan satuan baku;\n• Hubungan antar-satuan Baku panjang (mm, dm, cm, m, dam, hm, km);\n• Volume benda menggunakan satuan baku;\n• Hubungan antar-satuan baku volume (ml, dl, cl, l, dal, hl, kl);\n• Berat benda menggunakan satuan baku;\n• Hubungan antar-satuan baku berat (mg, dg, cg, g, dag, hg, kg);\n• Waktu;\n• Hubungan antar-satuan waktu (detik, menit, jam, hari, pekan, bulan, tahun);\n• Laju perubahan (kecepatan);\n• Keliling dan luas bangun datar (segitiga, segiempat, dan segi banyak);\n• Volume bangun ruang (kubus, balok, dan gabungannya);\n• Besar sudut;\n• Penaksiran ukuran.",
+        "batasan_catatan": ""
+      },
+      {
+        "no": 4,
+        "elemen_materi": "Data",
+        "sub_elemen_materi": "Penyajian dan Penggunaan Data",
+        "kompetensi": "Memahami, mengaplikasikan, dan bernalar yang lebih tinggi untuk menyelesaikan permasalahan terkait cakupan sub-elemen berikut:\n• Penyajian data (gambar, piktogram, diagram batang, dan tabel frekuensi);\n• Pengambilan informasi dan penggunaan data.",
+        "batasan_catatan": ""
+      }
+    ],
+    "soal": [
+      {
+        "no_soal": "1_A",
+        "kompetensi": "Memahami, mengaplikasikan, dan bernalar yang lebih tinggi untuk menyelesaikan permasalahan terkait operasi penjumlahan dan pengurangan bilangan pecahan, serta operasi perkalian dan pembagian bilangan.",
+        "sub_kompetensi": "",
+        "bentuk_soal": "Pilihan Ganda (PG)",
+        "kunci": "A",
+        "teks_soal": "120% - 3 + 2 \\times 0,75 + \\frac{2}{3} = \\dots",
+        "pilihan_jawaban": [
+          "11/30",
+          "49/60",
+          "31/30",
+          "98/60"
+        ]
+      },
+      {
+        "no_soal": "2_A",
+        "kompetensi": "Memahami, mengaplikasikan, dan bernalar yang lebih tinggi untuk menyelesaikan permasalahan terkait operasi penjumlahan dan pengurangan bilangan pecahan, serta operasi perkalian dan pembagian bilangan.",
+        "sub_kompetensi": "",
+        "bentuk_soal": "Pilihan Ganda (PG)",
+        "kunci": "C",
+        "teks_soal": "Menjelang tahun ajaran baru, Toko Buku Ceria memberikan diskon 10% untuk semua jenis buku. Diketahui harga buku gambar adalah 1/2 dari harga buku komik. Harga buku tulis adalah 0,75 kali harga buku komik. Diketahui harga buku komik adalah Rp24.000,00. Harga buku gambar dan buku tulis setelah dikenakan diskon adalah ....",
+        "pilihan_jawaban": [
+          "Rp18.000,00",
+          "Rp24.000,00",
+          "Rp27.000,00",
+          "Rp30.000,00"
+        ]
+      },
+      {
+        "no_soal": "3_A",
+        "kompetensi": "Memahami, mengaplikasikan, dan bernalar yang lebih tinggi untuk menyelesaikan permasalahan terkait operasi penjumlahan dan pengurangan bilangan pecahan, serta operasi perkalian dan pembagian bilangan pecahan dengan bilangan asli",
+        "sub_kompetensi": "",
+        "bentuk_soal": "PGK Kategori",
+        "kunci": {
+          "A": "Benar",
+          "B": "Benar",
+          "C": "Salah"
+        },
+        "teks_soal": "Pak Bondan seorang penjual susu kedelai. Suatu hari, Pak Bondan memproduksi susu kedelai sebanyak 7 wadah yang masing-masing berisi 6 1/4 liter susu kedelai. Seluruh hasil produksi tersebut akan dituangkan ke dalam 50 botol besar dengan isi yang sama banyak dan ke dalam 15 botol kecil dengan isi setiap botolnya adalah setengah botol besar. Tentukan Benar atau Salah untuk setiap pernyataan berikut tentang hasil produksi susu kedelai Pak Bondan!",
+        "pernyataan": [
+          {
+            "id": "A",
+            "teks": "Pada hari itu Pak Bondan memproduksi 43 3/4 liter susu kedelai."
+          },
+          {
+            "id": "B",
+            "teks": "Setiap botol besar diisi susu kedelai sebanyak 35/46 liter."
+          },
+          {
+            "id": "C",
+            "teks": "Total susu kedelai yang dikemas dalam botol kecil adalah 525/46 liter."
+          }
+        ]
+      },
+      {
+        "no_soal": "5_A",
+        "kompetensi": "Memahami, mengaplikasikan, dan bernalar yang lebih tinggi untuk menyelesaikan permasalahan terkait hubungan antar-satuan baku berat (mg, dg, cg, g, dag, hg, kg).",
+        "sub_kompetensi": "",
+        "bentuk_soal": "PGK MCMA",
+        "kunci": [
+          "Pernyataan 1",
+          "Pernyataan 3"
+        ],
+        "teks_soal": "Setiap bulan Ramadan, SD Harapan mengadakan bakti sosial. Mereka membagi sembako yang berisi 3 kg beras, dua bungkus gula pasir dengan berat masing-masing kemasan 5 hg, dan lima bungkus mi instan dengan berat per bungkus 85 g. Pilihlah pernyataan yang benar sesuai dengan informasi tersebut! Jawaban benar lebih dari satu.",
+        "pilihan_jawaban": [
+          "Total berat semua isi paket adalah 4.425 gram.",
+          "Berat mi instan dalam paket tersebut lebih dari 0,5 kilogram.",
+          "Satu kemasan gula pasir lebih berat dibandingkan seluruh mi instan."
+        ]
+      },
+      {
+        "no_soal": "1_B",
+        "kompetensi": "Kemampuan memahami, mengaplikasikan, dan bernalar yang lebih tinggi untuk menyelesaikan permasalahan terkait cakupan: Operasi aritmetika pada bilangan",
+        "sub_kompetensi": "Bilangan Real",
+        "bentuk_soal": "Pilihan Ganda (PG)",
+        "kunci": "A",
+        "teks_soal": "Ani membeli 2 pulpen dan 2 pensil di sebuah toko alat tulis. Harga satuan pulpen adalah Rp12.000,00 dan harga satuan pensil adalah Rp8.000,00. Kebetulan, toko tersebut sedang memberikan promo \"Hemat Berempat\" dengan ketentuan sebagai berikut: \"Setiap pembelian 4 barang (boleh campur) akan mendapat potongan harga sebesar harga 1 barang termurah yang dibeli\". Berapa total harga yang harus dibayar Ani dari semua barang yang dibeli?",
+        "pilihan_jawaban": [
+          "Rp32.000,00.",
+          "Rp36.000,00.",
+          "Rp40.000,00.",
+          "Rp44.000,00."
+        ]
+      },
+      {
+        "no_soal": "2_B",
+        "kompetensi": "Kemampuan memahami, mengaplikasikan, dan bernalar yang lebih tinggi untuk menyelesaikan permasalahan terkait cakupan: Estimasi/perkiraan hasil perhitungan",
+        "sub_kompetensi": "Bilangan Real",
+        "bentuk_soal": "PGK MCMA",
+        "kunci": [
+          "Pernyataan 1",
+          "Pernyataan 2",
+          "Pernyataan 3"
+        ],
+        "teks_soal": "Sebuah toko menjual 1 kg beras seharga Rp12.750,00. Jika seseorang membeli 19,6 kg untuk jenis beras yang sama, berapa perkiraan total harga yang mungkin? Pilih semua jawaban benar! Jawaban benar lebih dari satu.",
+        "pilihan_jawaban": [
+          "Kurang dari Rp260.000,00.",
+          "Lebih besar dari Rp240.000,00.",
+          "Dapat diperkirakan dengan 20 x 12.500,00.",
+          "Mendekati Rp230.000,00."
+        ]
+      },
+      {
+        "no_soal": "3_B",
+        "kompetensi": "Memahami, mengaplikasikan, dan bernalar yang lebih tinggi untuk menyelesaikan permasalahan terkait faktorisasi prima bilangan asli",
+        "sub_kompetensi": "Bilangan Real",
+        "bentuk_soal": "PGK MCMA",
+        "kunci": [
+          "Pernyataan 3",
+          "Pernyataan 4"
+        ],
+        "teks_soal": "Terdapat tiga bilangan yang dinyatakan dengan (33^2 - 3^2), (8^2 + 296), dan (36 \\times 35). Bilangan apa saja yang merupakan faktor persekutuan ketiga bilangan tersebut? Pilihlah jawaban yang benar! Jawaban benar lebih dari satu.",
+        "pilihan_jawaban": [
+          "2^3 \\times 3^3 \\times 7",
+          "2^2 \\times 3^2 \\times 7",
+          "2^2 \\times 3^2 \\times 5",
+          "2 \\times 3^2 \\times 5"
+        ]
+      },
+      {
+        "no_soal": "4_B",
+        "kompetensi": "Kemampuan memahami, mengaplikasikan, dan bernalar yang lebih tinggi untuk menyelesaikan permasalahan terkait cakupan: Rasio (skala, proporsi, dan laju perubahan)",
+        "sub_kompetensi": "",
+        "bentuk_soal": "Pilihan Ganda (PG)",
+        "kunci": "B",
+        "teks_soal": "Untuk membuat larutan desinfektan atau larutan pembasmi kuman, dibutuhkan cairan A dan B dengan perbandingan A : B = 3 : 5. Jika tersedia 2,5 liter cairan B, maka volume maksimum larutan yang dapat dibuat adalah ....",
+        "pilihan_jawaban": [
+          "3,6 liter",
+          "4,0 liter",
+          "4,8 liter",
+          "6,4 liter"
+        ]
+      },
+      {
+        "no_soal": "7",
+        "kompetensi": "Kemampuan memahami, mengaplikasikan, dan bernalar yang lebih tinggi untuk menyelesaikan permasalahan terkait perbandingan senilai dan berbalik nilai.",
+        "sub_kompetensi": "Bilangan Real",
+        "bentuk_soal": "PGK Kategori",
+        "kunci": {
+          "A": "Benar",
+          "B": "Benar",
+          "C": "Salah"
+        },
+        "teks_soal": "Proyek Renovasi Gedung. Proyek renovasi suatu gedung sekolah harus diselesaikan paling lambat dalam waktu 60 hari sesuai dengan kontrak kerja yang telah disepakati bersama. Manajer proyek telah menghitung kebutuhan tenaga kerja dengan asumsi setiap pegawai memiliki kemampuan dan produktivitas yang sama setiap harinya. Kemajuan proyek sangat bergantung pada jumlah pegawai; semakin banyak pegawai yang bekerja, maka waktu pengerjaan akan semakin singkat. Pekerjaan dinyatakan selesai jika seluruh beban kerja telah terpenuhi. Jika terjadi kendala pada jumlah pegawai atau waktu kerja, manajer harus melakukan penyesuaian agar total beban kerja tetap terpenuhi tepat waktu. Penyesuaian ini sangat penting dilakukan agar renovasi gedung selesai tepat 60 hari tanpa melanggar batas kontrak yang ada. Rencana awal, renovasi gedung dilakukan oleh 15 pegawai. Namun, pada 10 hari pertama, hanya 10 pegawai yang bekerja karena sebagian lainnya harus beristirahat. Setelah hari ke-10, seluruh pegawai (15 orang) kembali bekerja. Berdasarkan situasi tersebut, tentukan Benar atau Salah untuk setiap pernyataan berikut tentang penyelesaian renovasi gedung tersebut!",
+        "pernyataan": [
+          {
+            "id": "A",
+            "teks": "Sisa pekerjaan yang harus diselesaikan setelah hari ke-10 adalah setara dengan pekerjaan 800 hari penuh yang dikerjakan 1 orang."
+          },
+          {
+            "id": "B",
+            "teks": "Selama 10 hari pertama, proyek mengalami ketertinggalan jadwal yang setara dengan hasil kerja 5 orang selama 10 hari."
+          },
+          {
+            "id": "C",
+            "teks": "Agar renovasi tetap selesai tepat waktu manajer cukup mempekerjakan kembali 15 pegawai semula tanpa perlu menambah tenaga kerja tambahan."
+          }
+        ]
+      },
+      {
+        "no_soal": "8",
+        "kompetensi": "Kemampuan memahami, mengaplikasikan, dan bernalar yang lebih tinggi untuk menyelesaikan permasalahan terkait perbandingan senilai dan berbalik nilai.",
+        "sub_kompetensi": "Bilangan Real",
+        "bentuk_soal": "PGK MCMA",
+        "kunci": [
+          "Pernyataan 1",
+          "Pernyataan 3"
+        ],
+        "teks_soal": "Proyek Renovasi Gedung. Proyek renovasi suatu gedung sekolah harus diselesaikan paling lambat dalam waktu 60 hari sesuai dengan kontrak kerja yang telah disepakati bersama. Manajer proyek telah menghitung kebutuhan tenaga kerja dengan asumsi setiap pegawai memiliki kemampuan dan produktivitas yang sama setiap harinya. Kemajuan proyek sangat bergantung pada jumlah pegawai; semakin banyak pegawai yang bekerja, maka waktu pengerjaan akan semakin singkat. Pekerjaan dinyatakan selesai jika seluruh beban kerja telah terpenuhi. Jika terjadi kendala pada jumlah pegawai atau waktu kerja, manajer harus melakukan penyesuaian agar total beban kerja tetap terpenuhi tepat waktu. Penyesuaian ini sangat penting dilakukan agar renovasi gedung selesai tepat 60 hari tanpa melanggar batas kontrak yang ada. Rencana awal renovasi gedung diproyeksikan untuk 20 pegawai. Namun setelah pekerjaan berjalan 24 hari, pekerjaan berhenti total selama 12 hari (tidak ada pegawai yang bekerja) karena kendala cuaca. Manajer proyek melakukan analisis untuk menentukan langkah penyesuaian jumlah pegawai. Berdasarkan situasi tersebut, berikut ini manakah pernyataan yang sesuai tentang penyelesaian renovasi gedung dalam sisa waktu yang tersedia? Pilih semua jawaban benar! Jawaban benar lebih dari satu.",
+        "pilihan_jawaban": [
+          "Sisa waktu efektif yang tersedia untuk menyelesaikan seluruh sisa pekerjaan adalah 24 hari.",
+          "Beban pekerjaan yang masih tersisa setara dengan hasil kerja 20 orang selama 60 hari.",
+          "Manajer proyek harus menyiapkan total 30 pegawai agar proyek selesai tepat waktu.",
+          "Manajer proyek cukup menambah 5 orang pegawai dari jumlah semula agar renovasi gedung selesai tepat waktu."
+        ]
+      }
+    ]
+  },
+  "tka_matematika_smp_mts": {
+    "definisi": "Sebagaimana TKA Matematika SD/MI/sederajat, TKA Matematika SMP/MTs/sederajat juga mengukur kemampuan murid dalam memahami fakta, konsep, prinsip, dan prosedur matematika, serta kemampuan mereka dalam menerapkan pengetahuan matematika untuk menyelesaikan masalah (problem solving).",
+    "muatan": {
+      "deskripsi_elemen": "Muatan TKA Matematika SMP/MTs/sederajat merujuk pada elemen kurikulum atau materi matematika yang dipelajari murid yang ada pada Kurikulum 2013 dan Kurikulum Merdeka. Elemen ini meliputi:",
+      "elemen": [
+        "bilangan",
+        "aljabar",
+        "geometri dan pengukuran",
+        "data dan peluang"
+      ],
+      "keterangan": "Penggunaan logika matematika diintegrasikan langsung dengan elemen matematika yang tertera dalam kurikulum. Pengetahuan matematika diukur melalui permasalahan dalam konteks matematika dan permasalahan dalam konteks keseharian yang dapat meliputi kejadian atau situasi di lingkup personal, keluarga, atau lingkungan sekitar yang bersifat lokal."
+    },
+    "kompetensi": [
+      {
+        "level": 1,
+        "level_kognitif": "Pengetahuan dan Pemahaman (Knowing and Understanding)",
+        "proses_berpikir": [
+          {
+            "nama": "Menghitung",
+            "deskripsi": "Melakukan perhitungan berdasarkan prosedur yang mencakup operasi hitung aritmatika (+, -, ×, ÷, atau kombinasinya), operasi aljabar, atau operasi matematika lainnya."
+          },
+          {
+            "nama": "Memahami informasi",
+            "deskripsi": "Memahami informasi dari grafik fungsi, tabel, diagram, infografis, atau bentuk visual lainnya."
+          },
+          {
+            "nama": "Mengelompokkan",
+            "deskripsi": "Mengelompokkan objek berdasarkan fakta, konsep, dan prinsip matematika dalam cakupan sub-elemen."
+          },
+          {
+            "nama": "Mengidentifikasi",
+            "deskripsi": "Melakukan identifikasi terhadap objek menggunakan konsep, fakta, dan prinsip matematika dalam cakupan sub-elemen."
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "level_kognitif": "Aplikasi (Applying)",
+        "proses_berpikir": [
+          {
+            "nama": "Memodelkan",
+            "deskripsi": "Memodelkan permasalahan kontekstual terkait cakupan sub-elemen ke dalam kalimat matematika."
+          },
+          {
+            "nama": "Mengaplikasikan",
+            "deskripsi": "Mengaplikasikan strategi dan operasi matematika (berupa operasi hitung, operasi aljabar, atau bentuk operasi lainnya) untuk menyelesaikan permasalahan yang melibatkan konsep dan prosedur matematis yang familiar dan rutin."
+          },
+          {
+            "nama": "Menginterpretasikan",
+            "deskripsi": "Memahami dan menjelaskan makna dari berbagai situasi, kejadian, pernyataan, representasi, atau masalah matematika."
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "level_kognitif": "Penalaran (Reasoning)",
+        "proses_berpikir": [
+          {
+            "nama": "Menganalisis",
+            "deskripsi": "Menentukan, menjelaskan, dan menggunakan hubungan beberapa konsep, fakta, prinsip, atau prosedur matematika dalam cakupan sub-elemen."
+          },
+          {
+            "nama": "Memecahkan masalah",
+            "deskripsi": "Mengaitkan beberapa konsep, fakta, prinsip, prosedur, dan representasi matematika dalam cakupan sub-elemen, untuk menyelesaikan permasalahan dalam situasi baru atau konteks yang tidak rutin."
+          },
+          {
+            "nama": "Mengevaluasi",
+            "deskripsi": "Mengevaluasi alternatif strategi dan solusi dari suatu pemecahan masalah."
+          },
+          {
+            "nama": "Menyimpulkan",
+            "deskripsi": "Menarik kesimpulan yang valid dari informasi, data, atau bukti yang diberikan menggunakan konsep, fakta, prinsip, dan prosedur matematika dalam cakupan sub-elemen."
+          },
+          {
+            "nama": "Melakukan generalisasi",
+            "deskripsi": "Menyusun pernyataan matematis yang menggambarkan hubungan yang lebih umum terkait konsep, fakta, prinsip, dan prosedur dalam cakupan sub-elemen"
+          }
+        ]
+      }
+    ],
+    "matriks_asesmen": [
+      {
+        "no": 1,
+        "elemen_materi": "Bilangan",
+        "sub_elemen_submateri": [
+          {
+            "nama": "Bilangan Real",
+            "kompetensi": [
+              "Memahami, mengaplikasikan, dan bernalar yang lebih tinggi untuk menyelesaikan permasalahan terkait cakupan sub-elemen berikut:",
+              "Perbandingan dan sifat-sifat bilangan;",
+              "Operasi aritmetika pada bilangan;",
+              "Estimasi/perkiraan hasil perhitungan;",
+              "Faktorisasi prima bilangan asli;",
+              "Rasio (skala, proporsi, dan laju perubahan);",
+              "Perbandingan senilai dan berbalik nilai."
+            ],
+            "batasan_catatan": "Bilangan mencakup bilangan bulat, bilangan rasional dan irasional, bilangan berpangkat bulat, bilangan akar, dan bilangan dalam notasi ilmiah"
+          }
+        ]
+      },
+      {
+        "no": 2,
+        "elemen_materi": "Aljabar",
+        "sub_elemen_submateri": [
+          {
+            "nama": "Persamaan dan Pertidaksamaan Linier",
+            "kompetensi": [
+              "Memahami, mengaplikasikan, dan bernalar yang lebih tinggi untuk menyelesaikan permasalahan terkait cakupan sub-elemen berikut:",
+              "Persamaan linear satu variabel;",
+              "Pertidaksamaan linear satu variabel;",
+              "Sistem persamaan linear dua variabel."
+            ]
+          },
+          {
+            "nama": "Bentuk Aljabar",
+            "kompetensi": [
+              "Memahami, mengaplikasikan, dan bernalar yang lebih tinggi untuk menyelesaikan permasalahan terkait cakupan sub-elemen berikut:",
+              "Bentuk aljabar dan sifat-sifat operasinya (komutatif, asosiatif, dan distributif)."
+            ]
+          },
+          {
+            "nama": "Fungsi",
+            "kompetensi": [
+              "Memahami, mengaplikasikan, dan bernalar yang lebih tinggi untuk menyelesaikan permasalahan terkait cakupan sub-elemen berikut:",
+              "Relasi dan fungsi (domain, kodomain, range), serta penyajiannya."
+            ]
+          },
+          {
+            "nama": "Barisan dan Deret",
+            "kompetensi": [
+              "Memahami, mengaplikasikan, dan bernalar yang lebih tinggi untuk menyelesaikan permasalahan terkait cakupan sub-elemen berikut:",
+              "Barisan berhingga bilangan;",
+              "Deret berhingga bilangan."
+            ]
+          }
+        ]
+      },
+      {
+        "no": 3,
+        "elemen_materi": "Geometri dan Pengukuran",
+        "sub_elemen_submateri": [
+          {
+            "nama": "Objek Geometri",
+            "kompetensi": [
+              "Memahami, mengaplikasikan, dan bernalar yang lebih tinggi untuk menyelesaikan permasalahan terkait cakupan sub-elemen berikut:",
+              "Hubungan antar-sudut yang terbentuk oleh dua garis yang berpotongan, dan oleh dua garis sejajar yang dipotong suatu garis transversal (termasuk penentuan besar sudut dalam segitiga);",
+              "Teorema Pythagoras.",
+              "Kekongruenan dan kesebangunan bangun datar;",
+              "Jaring-jaring bangun ruang (prisma, tabung, limas dan kerucut)."
+            ]
+          },
+          {
+            "nama": "Transformasi Geometri",
+            "kompetensi": [
+              "Memahami, mengaplikasikan, dan bernalar yang lebih tinggi untuk menyelesaikan permasalahan terkait cakupan sub-elemen berikut:",
+              "Transformasi tunggal (refleksi, translasi, rotasi, dan dilatasi) terhadap titik, garis, dan bangun datar pada bidang."
+            ]
+          },
+          {
+            "nama": "Pengukuran",
+            "kompetensi": [
+              "Memahami, mengaplikasikan, dan bernalar yang lebih tinggi untuk menyelesaikan permasalahan terkait cakupan sub-elemen berikut:",
+              "Keliling dan luas bangun datar (daerah segi banyak dan daerah lingkaran, serta daerah gabungannya);",
+              "Volume bangun ruang (prisma, limas, dan bola)."
+            ]
+          }
+        ]
+      },
+      {
+        "no": 4,
+        "elemen_materi": "Data dan Peluang",
+        "sub_elemen_submateri": [
+          {
+            "nama": "Data",
+            "kompetensi": [
+              "Memahami, mengaplikasikan, dan bernalar yang lebih tinggi untuk menyelesaikan permasalahan terkait cakupan sub-elemen berikut:",
+              "Perumusan pertanyaan untuk mendapatkan data, serta penyajian, dan penginterpretasian data;",
+              "Penentuan dan penaksiran rerata (mean), median, modus, dan jangkauan (range) dari data;",
+              "Perbandingan ukuran pemusatan dan ukuran penyebaran beberapa kelompok data."
+            ],
+            "batasan_catatan": "Penyajian data meliputi: diagram batang, diagram garis, diagram lingkaran, dan tabel"
+          },
+          {
+            "nama": "Peluang",
+            "kompetensi": [
+              "Memahami, mengaplikasikan, dan bernalar yang lebih tinggi untuk menyelesaikan permasalahan terkait cakupan sub-elemen berikut:",
+              "Peluang dan frekuensi relatif dari kejadian tunggal."
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
