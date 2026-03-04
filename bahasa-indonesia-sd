@@ -1,0 +1,138 @@
+{
+  "panduan_tka_smp": {
+    "definisi": {
+      [cite_start]"fokus_utama": "Tes Kemampuan Akademik (TKA) Bahasa Indonesia SMP/MTs/sederajat difokuskan pada keterampilan membaca, sebagaimana pada jenjang SD/MI. [cite: 3]",
+      [cite_start]"alasan": "Keterampilan membaca dipilih sebagai fokus utama karena penting untuk mendukung pembelajaran di era yang terus berkembang pesat. [cite: 4]"
+    },
+    "muatan": {
+      "jenis_teks": [
+        [cite_start]"Teks informasi merupakan teks yang berisi fakta, konsep, atau prosedur dari berbagai bidang atau topik yang berskala lokal, nasional, atau global. [cite: 8] [cite_start]Teks informasi dapat berupa teks tunggal maupun teks jamak. [cite: 9]",
+        [cite_start]"Teks fiksi merupakan cerita rekaan yang dapat bersifat faktual (sejarah/biografi) atau realisme dengan latar cerita konkret atau abstrak, tokoh berkarakter bulat, konflik tunggal atau jamak dengan penyelesaian tertutup, alur campuran, dan sudut pandang orang ketiga. [cite: 10]"
+      ],
+      "karakteristik_teks": {
+        [cite_start]"kosakata": "Karakteristik kosakata: kata umum, kata berimbuhan/konfiks, kata abstrak, makna denotatif, istilah teknis, makna konotatif konteks tertentu. [cite: 12]",
+        [cite_start]"kalimat": "Karakteristik kalimat: jumlah kata per kalimat 5-9 kata, kalimat tunggal berbagai pola, kalimat majemuk setara. [cite: 13]",
+        [cite_start]"wacana": "Karakteristik wacana: kohesi penyulihan/substitusi, konjungsi antarparagraf perbandingan dan penekanan/intensifikasi, penggunaan tanda baca untuk mendukung deskripsi, panjang teks 200-250 kata (kecuali teks puisi). [cite: 14]"
+      }
+    },
+    "kompetensi": [
+      {
+        "nama": "Pemahaman tekstual",
+        [cite_start]"deskripsi": "Kemampuan untuk memahami informasi yang dikemukakan secara eksplisit, mengelompokkan, menyusun ulang, dan menyajikan kembali informasi secara eksplisit dari teks. [cite: 25]"
+      },
+      {
+        "nama": "Pemahaman inferensial",
+        [cite_start]"deskripsi": "Kemampuan untuk menarik kesimpulan berdasarkan informasi yang tersirat dalam teks. [cite: 26]"
+      },
+      {
+        "nama": "Evaluasi dan apresiasi",
+        [cite_start]"deskripsi": "Kemampuan untuk membuat penilaian terhadap ide, menanggapi teks secara emosional dan estetis dengan mempertimbangkan dampaknya terhadap perasaan, imajinasi, serta penggunaan bahasa oleh penulis. [cite: 27]"
+      }
+    ],
+    "matriks_asesmen": [
+      {
+        "kompetensi": "Pemahaman Tekstual",
+        "subkompetensi": [
+          [cite_start]"Mengidentifikasi penggunaan istilah dalam berbagai bidang. [cite: 29]",
+          [cite_start]"Mengidentifikasi objek dan/atau latar berdasarkan kosakata yang digunakan dalam teks fiksi atau nonfiksi. [cite: 29]",
+          [cite_start]"Mengidentifikasi informasi penting yang tersurat dalam teks. [cite: 29]",
+          [cite_start]"Menyusun kerangka atau bagan berdasarkan bagian-bagian penting dalam teks. [cite: 29]"
+        ]
+      },
+      {
+        "kompetensi": "Pemahaman Inferensial",
+        "subkompetensi": [
+          [cite_start]"Menyimpulkan ide pokok, gagasan pendukung, tokoh, peristiwa, latar, dan/atau nilai-nilai dalam dan/atau antarteks. [cite: 29]",
+          [cite_start]"Menjelaskan kelogisan hubungan antarperistiwa, antargagasan, dan/atau antarinformasi dalam dan/atau antarteks. [cite: 29]",
+          [cite_start]"Memprediksi peristiwa dalam teks. [cite: 29]",
+          [cite_start]"Menjelaskan bahasa kias dan citraan yang digunakan dalam teks fiksi. [cite: 30]"
+        ]
+      },
+      {
+        "kompetensi": "Evaluasi dan Apresiasi",
+        "subkompetensi": [
+          [cite_start]"Menilai relevansi peristiwa dalam teks dengan kehidupan sehari-hari. [cite: 30]",
+          [cite_start]"Menilai kesesuaian dan/atau keakuratan unsur, kebahasaan, atau isi berdasarkan perbandingan informasi dalam dan/atau antarteks. [cite: 30]",
+          [cite_start]"Menyimpulkan respons emosional terhadap unsur teks fiksi. [cite: 30]"
+        ]
+      }
+    ],
+    "kumpulan_contoh_soal": [
+      {
+        "bacaan_stimulus": [
+          {
+            "judul": "Pantai Glagah",
+            [cite_start]"isi_teks": "Pantai Glagah di Kulon Progo adalah salah satu pantai unik di selatan Yogyakarta. [cite: 34] [cite_start]Pasir hitamnya memberi kesan eksotis yang berbeda dari pantai lainnya. [cite: 35] [cite_start]Ombak besar yang menerjang pemecah gelombang menciptakan suasana alam yang menakjubkan. [cite: 36] [cite_start]Di sisi timur, terdapat laguna tenang yang cocok untuk wisata keluarga, terutama anak-anak. [cite: 37] [cite_start]Akses menuju pantai ini cukup mudah dari pusat Kota Yogyakarta. [cite: 38] [cite_start]Fasilitasnya lengkap, seperti area parkir luas, warung makan, dan tempat duduk untuk bersantai. [cite: 39] [cite_start]Ketika senja tiba, suasana menjadi lebih indah dengan langit yang memerah dan matahari terbenam perlahan di cakrawala. [cite: 40] Namun, pengunjung tidak disarankan berenang karena ombaknya cukup ganas. [cite_start]Beberapa sudut pantai juga terlihat kurang bersih. [cite: 41] [cite_start]Meski begitu, Pantai Glagah tetap menjadi tempat menenangkan diri. [cite: 42]"
+          },
+          {
+            "judul": "Pantai Drini, Gunung Kidul",
+            "penulis": "Noordin Ahya - WartaKU",
+            [cite_start]"tanggal": "Senin, 23 April 2025 11:04 WIB [cite: 46]",
+            [cite_start]"isi_teks": "Pantai Drini di Gunung Kidul tuh beneran hidden gem yang wajib masuk bucket list liburan kamu! [cite: 47] [cite_start]Nggak cuma karena pasir putih dan air lautnya yang bening banget, tapi juga karena pulau karang kecil yang unik. [cite: 48] [cite_start]Pulau itu seperti pemisah dua dunia-satu sisi ombaknya tenang, sisi lainnya agak liar. [cite: 49] [cite_start]Serasa lagi liat dua kepribadian alam yang beda tapi tetap satu kesatuan. [cite: 50] [cite_start]Yang bikin makin seru, kamu bisa jalan kaki ke pulau karangnya pas air laut surut. [cite: 51] View dari atas cakep banget buat foto, apalagi pas golden hour. [cite_start]Banyak banget sudut estetis yang bisa kamu eksplor. [cite: 52] Fasilitas di sini juga udah lumayan oke. [cite_start]Ada warung makan, parkiran luas, dan tempat duduk buat santai-santai. [cite: 53] [cite_start]Pantai Drini tuh ibarat tempat nongkrongnya laut dan langit- sederhana, tapi punya vibes yang nggak bisa dibeli. [cite: 54] [cite_start]Sekali datang, rasanya pengen balik lagi buat nyari tenang dalam riuhnya dunia. [cite: 55]"
+          }
+        ],
+        "daftar_soal": [
+          {
+            "no_soal": 1,
+            "metadata": {
+              [cite_start]"kompetensi": "Pemahaman Tekstual [cite: 56]",
+              [cite_start]"sub_kompetensi": "Mengidentifikasi objek dan/atau latar berdasarkan kosakata yang digunakan dalam teks fiksi atau nonfiksi. [cite: 56]",
+              [cite_start]"bentuk_soal": "Pilihan Ganda (PG) [cite: 56]"
+            },
+            [cite_start]"pertanyaan": "Kosakata yang menggambarkan keserasian suara deburan alam pada teks ulasan ke-1 ditunjukkan pada frasa [cite: 57]",
+            "pilihan_jawaban": [
+              [cite_start]"A. alternatif wisata [cite: 58]",
+              [cite_start]"B. kanvas alam [cite: 59]",
+              [cite_start]"C. panggung cahaya [cite: 60]",
+              [cite_start]"D. harmoni alam [cite: 61]"
+            ]
+          },
+          {
+            "no_soal": 2,
+            "metadata": {
+              [cite_start]"kompetensi": "Pemahaman Inferensial [cite: 62]",
+              [cite_start]"sub_kompetensi": "Menjelaskan kelogisan hubungan antarperistiwa, antargagasan, dan/atau antarinformasi dalam dan/atau antarteks [cite: 62]",
+              [cite_start]"bentuk_soal": "PGK MCMA [cite: 62]",
+              [cite_start]"kunci_jawaban": "A, C [cite: 62]"
+            },
+            "pertanyaan": "Apa saja perbedaan informasi yang ada pada kedua teks tersebut? Pilihlah jawaban yang benar! [cite_start]Jawaban benar lebih dari satu. [cite: 63]",
+            "pilihan_jawaban_checkbox": [
+              [cite_start]"Kemudahan akses. [cite: 66]",
+              [cite_start]"Fasilitas yang tersedia. [cite: 67]",
+              [cite_start]"Tempat untuk berfoto. [cite: 68]",
+              [cite_start]"Keindahan saat senja. [cite: 70]"
+            ]
+          },
+          {
+            "no_soal": 3,
+            "metadata": {
+              [cite_start]"kompetensi": "Evaluasi dan Apresiasi [cite: 74]",
+              [cite_start]"sub_kompetensi": "Menilai kesesuaian dan/atau keakuratan unsur, kebahasaan, atau isi berdasarkan perbandingan informasi dalam dan/atau antarteks. [cite: 74]",
+              [cite_start]"bentuk_soal": "PGK Kategori [cite: 74]",
+              [cite_start]"kunci_jawaban": "Benar, Salah, Salah [cite: 74]"
+            },
+            "bacaan_tambahan": "Banu: Aku lebih suka membaca ulasan pada teks 2 rasanya lebih dekat denganku. Aku jadi ingin ke sana! [cite_start]Teks ulasan 2 sangat menarik! [cite: 71, 72] [cite_start]Komar: Justru aku lebih suka ulasan pada teks 1 karena sangat jelas dan menarik minatku untuk mengunjungi pantai itu. [cite: 73]",
+            "pertanyaan": "Mengapa pernyataan Banu lebih tepat untuk menggambarkan keunggulan teks ulasan kedua yang tidak ada pada teks ulasan pertama? [cite_start]Tentukan Benar atau Salah untuk setiap pernyataan berikut! [cite: 75, 76]",
+            "tabel_pernyataan": [
+              {
+                "label": "A",
+                [cite_start]"pernyataan": "Gaya penyajian teks menggunakan bahasa nonformal sehingga lebih santai. [cite: 77]",
+                "pilihan": ["Benar", "Salah"]
+              },
+              {
+                "label": "B",
+                [cite_start]"pernyataan": "Penyajian gambar pada teks yang membuat pembaca lebih tertarik membaca [cite: 77]",
+                "pilihan": ["Benar", "Salah"]
+              },
+              {
+                "label": "C",
+                [cite_start]"pernyataan": "Akhir ulasan dilengkapi kalimat ajakan kepada pembaca untuk mengunjungi pantai. [cite: 77]",
+                "pilihan": ["Benar", "Salah"]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
