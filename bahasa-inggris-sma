@@ -1,0 +1,146 @@
+{
+  "framework": {
+    "name": "TKA Bahasa Inggris SMA/Sederajat",
+    "sections": {
+      "definisi": {
+        "text": "TKA Bahasa Inggris mengukur keterampilan membaca beragam jenis teks berbahasa Inggris dalam berbagai situasi komunikasi sehari-hari, vokasional, dan akademik."
+      },
+      "muatan": {
+        "description": "Muatan TKA Bahasa Inggris merupakan irisan jenis teks, konteks komunikasi, topik, dan kompleksitas teks pada Kurikulum 2013 dan Kurikulum Merdeka.",
+        "jenis_teks": [
+          "descriptive",
+          "recount",
+          "narrative",
+          "procedure",
+          "analytical exposition"
+        ],
+        "konteks_komunikasi": [
+          "sehari-hari",
+          "tempat kerja (vokasional)",
+          "akademik"
+        ],
+        "topik": "Gabungan topik dari kedua kurikulum dengan menghindari kosakata teknis yang terlalu jarang digunakan dalam komunikasi.",
+        "tingkat_kemahiran": {
+          "target": "Intermediate (B1) dalam Common European Framework of Reference for Languages (CEFR)",
+          "catatan": "Sebagian peserta mungkin di bawah B1 sehingga juga digunakan teks dengan kompleksitas A2."
+        },
+        "karakteristik_teks_B1": [
+          "panjang sekitar 250–350 kata",
+          "menggunakan kosakata berfrekuensi tinggi (hingga 3000 kata)",
+          "menggunakan struktur kalimat sederhana serta kompleks",
+          "menggunakan konteks sehari-hari, vokasional, dan akademik dasar yang berkaitan dengan minat, pengalaman, dan kebutuhan informasi umum dengan tingkat pemahaman yang baik"
+        ],
+        "karakteristik_teks_A2": [
+          "panjang sekitar 200–300 kata",
+          "menggunakan kosakata berfrekuensi tinggi (hingga 2000 kata)",
+          "menggunakan struktur kalimat sederhana dan beberapa bentuk majemuk dasar",
+          "menggambarkan konteks kehidupan sehari-hari dan vokasional yang berkaitan dengan hal-hal konkret dan dikenal dengan tingkat pemahaman yang memadai"
+        ]
+      },
+      "kompetensi": {
+        "levels": [
+          {
+            "name": "Pemahaman Tekstual",
+            "description": "mampu memahami informasi yang eksplisit, mengelompokkan, menyusun ulang, dan menyajikan kembali informasi eksplisit dari teks"
+          },
+          {
+            "name": "Pemahaman Inferensial",
+            "description": "mampu menarik kesimpulan berdasarkan informasi tersirat dalam teks, pengalaman pribadi, serta intuisi untuk memahami isi teks"
+          },
+          {
+            "name": "Evaluasi dan Apresiasi",
+            "description": "mampu membuat penilaian terhadap ide, menanggapi teks secara emosional dan estetis dengan mempertimbangkan dampaknya terhadap perasaan, imajinasi, serta penggunaan bahasa oleh penulis"
+          }
+        ]
+      },
+      "matriks_asesmen": [
+        {
+          "no": 1,
+          "kompetensi": "Pemahaman Tekstual",
+          "subkompetensi": [
+            "Menemukan/mengidentifikasi informasi penting yang disebutkan secara eksplisit dalam teks.",
+            "Mengklasifikasi orang, benda, tempat, atau peristiwa dalam teks berdasarkan kategori tertentu.",
+            "Menyusun poin-poin utama dari teks dalam bentuk kerangka atau daftar.",
+            "Meringkas isi teks secara ringkas dengan mengutip bagian penting.",
+            "Mensintesis informasi dari sumber lain untuk memperoleh pemahaman yang lebih komprehensif."
+          ]
+        },
+        {
+          "no": 2,
+          "kompetensi": "Pemahaman Inferensial",
+          "subkompetensi": [
+            "Menyimpulkan detail pendukung dengan menentukan fakta tambahan yang membuat teks lebih informatif, menarik, atau persuasif.",
+            "Menyimpulkan topik, ide pokok/gagasan utama, makna, target pembaca, tujuan penulisan teks, atau pesan moral yang tidak secara eksplisit dinyatakan.",
+            "Menyimpulkan urutan kejadian atau memperkirakan kelanjutan isi teks.",
+            "Menyimpulkan perbandingan antara tokoh, waktu, tempat, benda, atau gagasan dalam teks.",
+            "Menyimpulkan hubungan sebab-akibat antar gagasan atau tindakan dalam teks.",
+            "Menyimpulkan karakter tokoh berdasarkan petunjuk eksplisit dalam teks.",
+            "Memprediksi akhir cerita setelah membaca bagian awal."
+          ]
+        },
+        {
+          "no": 3,
+          "kompetensi": "Evaluasi dan Apresiasi",
+          "subkompetensi": [
+            "Menilai realitas atau fantasi suatu peristiwa dalam teks berdasarkan pengalaman atau pengetahuan pribadi.",
+            "Menilai fakta atau opini yang diberikan penulis untuk mendukung pendapatnya atau memengaruhi pembaca.",
+            "Menilai kecukupan dan validitas informasi dalam teks (dengan membandingkan dengan sumber lain).",
+            "Menilai kesesuaian bagian teks dalam menggambarkan karakter utama atau aspek lain dari bacaan.",
+            "Menanggapi isi teks dengan mengungkapkan perasaan atau kesan seperti ketertarikan, kebosanan, kegembiraan, ketakutan, kebencian, atau kesenangan."
+          ]
+        }
+      ],
+      "contoh_soal": {
+        "teks": "King Hung Vuong VI had a beautiful daughter. He did not want her to marry just any prince. So, he made an announcement that he was looking for the right husband for her. Many princes came from faraway lands, but none of them was a good match for the princess.\n\nSon Tinh was the Spirit of the Mountain, and Thuy Tinh was the Spirit of the Waters. One day, they both appeared as young noblemen and asked to marry the princess. They were equally talented, powerful, and respected. The King found it hard to choose, so he decided to give them a test. He said that the one who brought the proper wedding gifts first the next morning would marry his daughter.\n\nThe next day, Son Tinh arrived early with his gifts. The King kept his promise and gave the princess to him. Thuy Tinh was angry about losing. He challenged Son Tinh to fight for the princess. But Son Tinh refused, believing he had already won fairly. Furious, Thuy Tinh used his power to call the rivers and streams to rise. Soon, the land was covered with floods that destroyed crops and homes.\n\nSon Tinh stayed calm in his mountain palace. Whenever the water rose, he made his mountains higher. After many days of fighting, Thuy Tinh grew tired and ordered the waters to retreat. Still, he never accepted his defeat. Every year, he tried again to attack, and this is how monsoons came to Vietnam.",
+        "questions": [
+          {
+            "no": 2,
+            "kompetensi": "Pemahaman Inferensial",
+            "subkompetensi": "Menyimpulkan hubungan sebab akibat",
+            "bentuk_soal": "Pilihan Ganda (PG)",
+            "kunci": "A",
+            "pertanyaan": "Why did Thuy Tinh attack Son Tinh after the wedding?",
+            "opsi": [
+              "He was jealous of Son Tinh’s victory.",
+              "He believed the King had lied to him.",
+              "He thought the princess loved him more.",
+              "He wanted to show off his power to the king.",
+              "He had promised to fight until death."
+            ]
+          },
+          {
+            "no": 3,
+            "kompetensi": "Pemahaman Inferensial",
+            "subkompetensi": "Menyimpulkan perbandingan",
+            "bentuk_soal": "PGK Kategori",
+            "kunci": {
+              "A": "Similarity",
+              "B": "Similarity",
+              "C": "Difference"
+            },
+            "pernyataan": [
+              "Both are not humans.",
+              "They can control the elements.",
+              "They love the king’s daughter."
+            ]
+          },
+          {
+            "no": 5,
+            "kompetensi": "Pemahaman Inferensial",
+            "subkompetensi": "Menyimpulkan pesan moral",
+            "bentuk_soal": "PGK MCMA",
+            "kunci": ["A", "B"],
+            "pertanyaan": "What is the main lesson of the story?",
+            "opsi": [
+              "Accept defeat gracefully to prevent harm to others.",
+              "Be fair and follow the agreed rules in competitions.",
+              "Choose peaceful solutions rather than angry reactions.",
+              "Prepare honestly and present your gifts properly.",
+              "Respect leaders’ decisions and community agreements."
+            ]
+          }
+        ]
+      }
+    }
+  }
+}
