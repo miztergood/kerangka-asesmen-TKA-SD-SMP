@@ -1,229 +1,186 @@
 {
-  "assessment_framework": {
+  "framework": {
     "name": "TKA Matematika SMA/Sederajat",
-    "definition": "TKA Matematika mengukur kemampuan murid dalam memahami fakta, konsep, prinsip, dan prosedur matematika, serta kemampuan mereka dalam menerapkan pengetahuan matematika untuk menyelesaikan masalah (problem solving)."
-  },
-  "content_scope": {
-    "description": "Muatan TKA Matematika merujuk pada elemen kurikulum atau materi matematika yang dipelajari murid pada Kurikulum 2013 dan Kurikulum Merdeka.",
-    "elements": [
-      "Bilangan",
-      "Aljabar",
-      "Geometri dan Pengukuran",
-      "Data dan Peluang",
-      "Trigonometri"
-    ],
-    "notes": "Penggunaan logika matematika diintegrasikan langsung dengan elemen matematika dalam kurikulum. Pengetahuan matematika diukur melalui permasalahan dalam konteks matematika maupun kehidupan sehari-hari, baik pada lingkungan personal, keluarga, maupun lingkungan sekitar secara lokal maupun global."
-  },
-  "competency_levels": [
-    {
-      "level": 1,
-      "name": "Pengetahuan dan Pemahaman",
-      "alias": "Knowing and Understanding",
-      "processes": [
+    "sections": {
+      "definisi": {
+        "text": "TKA Matematika mengukur kemampuan murid dalam memahami fakta, konsep, prinsip, dan prosedur matematika, serta kemampuan mereka dalam menerapkan pengetahuan matematika untuk menyelesaikan masalah (problem solving)."
+      },
+      "muatan": {
+        "description": "Muatan TKA Matematika merujuk pada elemen kurikulum atau materi matematika yang dipelajari murid yang ada pada Kurikulum 2013 dan Kurikulum Merdeka.",
+        "elements": [
+          "bilangan",
+          "aljabar",
+          "geometri dan pengukuran",
+          "data dan peluang",
+          "trigonometri"
+        ],
+        "notes": [
+          "Penggunaan logika matematika diintegrasikan langsung dengan elemen matematika yang tertera dalam kurikulum.",
+          "Pengetahuan matematika diukur melalui permasalahan dalam konteks matematika dan permasalahan dalam konteks keseharian yang dapat meliputi kejadian atau situasi di lingkungan personal, keluarga, atau lingkungan sekitar baik lokal maupun global."
+        ]
+      },
+      "kompetensi": [
         {
-          "name": "Menghitung",
-          "description": "Melakukan perhitungan berdasarkan prosedur yang mencakup operasi hitung aritmatika (+, −, ×, ÷), operasi aljabar, atau operasi matematika lainnya."
+          "level": 1,
+          "name": "Pengetahuan dan Pemahaman",
+          "english": "Knowing and Understanding",
+          "proses_berpikir": [
+            {
+              "nama": "Menghitung",
+              "deskripsi": "Melakukan perhitungan berdasarkan prosedur yang mencakup operasi hitung aritmatika (+, -, ×, ÷, atau kombinasinya), operasi aljabar, atau operasi matematika lainnya."
+            },
+            {
+              "nama": "Memahami informasi",
+              "deskripsi": "Memahami informasi dari grafik fungsi, tabel, diagram, infografis, atau bentuk visual lainnya."
+            },
+            {
+              "nama": "Mengelompokkan",
+              "deskripsi": "Mengelompokkan objek berdasarkan fakta, konsep, dan prinsip matematika dalam cakupan sub-elemen."
+            },
+            {
+              "nama": "Mengidentifikasi",
+              "deskripsi": "Melakukan identifikasi terhadap objek menggunakan konsep, fakta, dan prinsip matematika dalam cakupan sub-elemen."
+            }
+          ]
         },
         {
-          "name": "Memahami informasi",
-          "description": "Memahami informasi dari grafik fungsi, tabel, diagram, infografis, atau bentuk visual lainnya."
+          "level": 2,
+          "name": "Aplikasi",
+          "english": "Applying",
+          "proses_berpikir": [
+            {
+              "nama": "Memodelkan",
+              "deskripsi": "Memodelkan permasalahan kontekstual terkait cakupan sub-elemen ke dalam pernyataan matematika."
+            },
+            {
+              "nama": "Menerapkan",
+              "deskripsi": "Menerapkan strategi dan operasi matematika (berupa operasi hitung, operasi aljabar, atau bentuk operasi lainnya) untuk menyelesaikan permasalahan yang melibatkan konsep dan prosedur matematis yang familiar dan rutin."
+            },
+            {
+              "nama": "Menginterpretasikan",
+              "deskripsi": "Memahami dan menjelaskan makna dari berbagai situasi, kejadian, pernyataan, representasi, atau masalah matematika."
+            }
+          ]
         },
         {
-          "name": "Mengelompokkan",
-          "description": "Mengelompokkan objek berdasarkan fakta, konsep, dan prinsip matematika dalam cakupan sub-elemen."
-        },
-        {
-          "name": "Mengidentifikasi",
-          "description": "Melakukan identifikasi terhadap objek menggunakan konsep, fakta, dan prinsip matematika."
+          "level": 3,
+          "name": "Penalaran",
+          "english": "Reasoning",
+          "proses_berpikir": [
+            {
+              "nama": "Menganalisis",
+              "deskripsi": "Menentukan, menjelaskan, dan menggunakan hubungan beberapa konsep, fakta, prinsip, atau prosedur matematika dalam cakupan sub-elemen."
+            },
+            {
+              "nama": "Memecahkan masalah",
+              "deskripsi": "Mengaitkan beberapa konsep, fakta, prinsip, prosedur, dan representasi matematika dalam cakupan sub-elemen untuk menyelesaikan permasalahan dalam situasi baru atau konteks yang tidak rutin."
+            },
+            {
+              "nama": "Mengevaluasi",
+              "deskripsi": "Mengevaluasi alternatif strategi dan solusi dari suatu pemecahan masalah."
+            },
+            {
+              "nama": "Menyimpulkan",
+              "deskripsi": "Menarik kesimpulan yang valid dari informasi, data, atau bukti yang diberikan menggunakan konsep, fakta, prinsip, dan prosedur matematika dalam cakupan sub-elemen."
+            },
+            {
+              "nama": "Melakukan generalisasi",
+              "deskripsi": "Menyusun pernyataan matematis yang menggambarkan hubungan yang lebih umum terkait konsep, fakta, prinsip, dan prosedur dalam cakupan sub-elemen."
+            },
+            {
+              "nama": "Menjustifikasi",
+              "deskripsi": "Memberikan argumen matematis atau langkah/prosedur operasi matematika secara logis untuk mendukung strategi atau solusi dari suatu permasalahan."
+            }
+          ]
         }
-      ]
-    },
-    {
-      "level": 2,
-      "name": "Aplikasi",
-      "alias": "Applying",
-      "processes": [
+      ],
+      "matriks_asesmen": [
         {
-          "name": "Memodelkan",
-          "description": "Memodelkan permasalahan kontekstual ke dalam pernyataan matematika."
-        },
-        {
-          "name": "Menerapkan",
-          "description": "Menerapkan strategi dan operasi matematika untuk menyelesaikan masalah yang melibatkan konsep dan prosedur matematika yang familiar dan rutin."
-        },
-        {
-          "name": "Menginterpretasikan",
-          "description": "Memahami dan menjelaskan makna dari berbagai situasi, kejadian, pernyataan, representasi, atau masalah matematika."
-        }
-      ]
-    },
-    {
-      "level": 3,
-      "name": "Penalaran",
-      "alias": "Reasoning",
-      "processes": [
-        {
-          "name": "Menganalisis",
-          "description": "Menentukan, menjelaskan, dan menggunakan hubungan beberapa konsep, fakta, prinsip, atau prosedur matematika."
-        },
-        {
-          "name": "Memecahkan masalah",
-          "description": "Mengaitkan beberapa konsep, fakta, prinsip, prosedur, dan representasi matematika untuk menyelesaikan permasalahan pada situasi baru."
-        },
-        {
-          "name": "Mengevaluasi",
-          "description": "Mengevaluasi alternatif strategi dan solusi dari suatu pemecahan masalah."
-        },
-        {
-          "name": "Menyimpulkan",
-          "description": "Menarik kesimpulan yang valid dari informasi, data, atau bukti."
-        },
-        {
-          "name": "Generalisasi",
-          "description": "Menyusun pernyataan matematis yang menggambarkan hubungan umum antara konsep, fakta, prinsip, dan prosedur."
-        },
-        {
-          "name": "Menjustifikasi",
-          "description": "Memberikan argumen matematis atau langkah/prosedur secara logis untuk mendukung solusi."
-        }
-      ]
-    }
-  ],
-  "assessment_matrix": [
-    {
-      "element": "Bilangan",
-      "sub_elements": [
-        {
-          "name": "Bilangan Real",
-          "competencies": [
+          "no": 1,
+          "elemen": "Bilangan",
+          "sub_elemen": "Bilangan Real",
+          "kompetensi": [
             "Jenis dan sifat bilangan",
-            "Operasi bilangan dan sifatnya (komutatif, asosiatif, distributif)"
+            "Operasi bilangan (penjumlahan, pengurangan, perkalian, pembagian, dan gabungannya) beserta sifat-sifatnya antara lain komutatif, asosiatif, dan distributif"
           ],
-          "notes": "Bilangan meliputi bilangan real termasuk bilangan asli berpangkat bilangan bulat atau berpangkat bilangan pecahan."
-        }
-      ]
-    },
-    {
-      "element": "Aljabar",
-      "sub_elements": [
+          "batasan_catatan": "Bilangan meliputi bilangan real, termasuk bilangan asli berpangkat bilangan bulat atau berpangkat bilangan pecahan."
+        },
         {
-          "name": "Persamaan dan Pertidaksamaan Linear",
-          "competencies": [
+          "no": 2,
+          "elemen": "Aljabar",
+          "sub_elemen": "Persamaan dan Pertidaksamaan Linear",
+          "kompetensi": [
             "Sistem persamaan linear multivariabel",
             "Sistem pertidaksamaan linear multivariabel",
             "Program linear"
           ],
-          "notes": "Maksimum jumlah variabel yang digunakan adalah tiga."
+          "batasan_catatan": "Maksimum banyaknya variabel yang digunakan tiga."
         },
         {
-          "name": "Fungsi",
-          "competencies": [
-            "Domain, kodomain, dan range",
-            "Representasi fungsi linear, kuadrat, dan rasional",
-            "Invers fungsi",
-            "Komposisi fungsi"
+          "elemen": "Aljabar",
+          "sub_elemen": "Fungsi",
+          "kompetensi": [
+            "Domain, kodomain, daerah hasil (range), dan representasi fungsi linear, kuadrat, dan rasional dalam berbagai bentuk",
+            "Invers fungsi dan representasinya",
+            "Fungsi komposisi dan representasinya"
           ],
-          "notes": "Identifikasi fungsi meliputi analitis dan grafis."
+          "batasan_catatan": "Identifikasi fungsi meliputi secara analitis dan grafis."
         },
         {
-          "name": "Barisan dan Deret",
-          "competencies": [
+          "elemen": "Aljabar",
+          "sub_elemen": "Barisan dan Deret",
+          "kompetensi": [
             "Barisan dan deret aritmetika",
             "Barisan dan deret geometri"
           ],
-          "notes": "Termasuk penerapan dalam masalah pertumbuhan, peluruhan, bunga tunggal, dan bunga majemuk."
-        }
-      ]
-    },
-    {
-      "element": "Geometri dan Pengukuran",
-      "sub_elements": [
+          "batasan_catatan": "Penerapan barisan dan deret termasuk dalam masalah pertumbuhan, peluruhan, bunga tunggal, dan bunga majemuk."
+        },
         {
-          "name": "Objek Geometri",
-          "competencies": [
-            "Hubungan titik, garis, dan bidang",
-            "Hubungan objek geometri pada bangun datar dan ruang",
-            "Kesebangunan dan kekongruenan",
+          "no": 3,
+          "elemen": "Geometri dan Pengukuran",
+          "sub_elemen": "Objek Geometri",
+          "kompetensi": [
+            "Hubungan dua sudut, dua garis, dan dua bidang",
+            "Hubungan objek geometri pada bangun datar dan bangun ruang",
+            "Kesebangunan atau kekongruenan bangun datar",
             "Teorema Pythagoras"
+          ],
+          "batasan_catatan": "Bangun datar meliputi segitiga, segi empat, lingkaran, dan bangun datar yang merupakan gabungan dari segitiga dan lingkaran. Bangun ruang meliputi bangun ruang beraturan dengan sisi datar dan lengkung. Jarak dua objek geometri meliputi jarak dua titik, jarak dua garis, jarak dua bidang, jarak titik dan garis, serta jarak titik dan bidang."
+        },
+        {
+          "elemen": "Geometri dan Pengukuran",
+          "sub_elemen": "Transformasi Geometri",
+          "kompetensi": [
+            "Transformasi geometri (translasi, refleksi, rotasi, dilatasi, serta komposisinya)"
           ]
         },
         {
-          "name": "Transformasi Geometri",
-          "competencies": [
-            "Translasi",
-            "Refleksi",
-            "Rotasi",
-            "Dilatasi",
-            "Komposisi transformasi"
-          ]
-        },
-        {
-          "name": "Pengukuran",
-          "competencies": [
+          "elemen": "Geometri dan Pengukuran",
+          "sub_elemen": "Pengukuran",
+          "kompetensi": [
             "Keliling dan luas bangun datar",
             "Volume dan luas permukaan bangun ruang",
-            "Jarak antar objek geometri"
+            "Jarak dua objek geometri"
           ]
-        }
-      ]
-    },
-    {
-      "element": "Trigonometri",
-      "sub_elements": [
+        },
         {
-          "name": "Perbandingan Trigonometri",
-          "competencies": [
-            "Sinus",
-            "Kosinus",
-            "Tangen",
-            "Kotangen",
-            "Sekan",
-            "Kosekan"
+          "no": 4,
+          "elemen": "Trigonometri",
+          "sub_elemen": "Perbandingan Trigonometri",
+          "kompetensi": [
+            "Perbandingan trigonometri (sinus, kosinus, tangen, kotangen, sekan, kosekan)"
           ]
-        }
-      ]
-    },
-    {
-      "element": "Data dan Peluang",
-      "sub_elements": [
+        },
         {
-          "name": "Data",
-          "competencies": [
-            "Penyajian data (diagram batang, garis, lingkaran, grafik, tabel)",
-            "Ukuran pemusatan data",
-            "Ukuran penyebaran data"
+          "no": 5,
+          "elemen": "Data dan Peluang",
+          "sub_elemen": "Data",
+          "kompetensi": [
+            "Penyajian data dalam bentuk diagram batang, diagram garis, diagram lingkaran, grafik, tabel, dan bentuk visual",
+            "Ukuran pemusatan dan penyebaran data tunggal dan data kelompok"
           ]
         }
       ]
     }
-  ],
-  "example_items": [
-    {
-      "question_id": 1,
-      "type": "multiple_choice",
-      "competency": "Sistem persamaan linear multivariabel",
-      "answer_key": "B"
-    },
-    {
-      "question_id": 12,
-      "type": "pgk_category",
-      "competency": "Program linear",
-      "answer_key": {
-        "A": "Salah",
-        "B": "Salah",
-        "C": "Benar"
-      }
-    },
-    {
-      "question_id": 16,
-      "type": "multiple_correct",
-      "competency": "Ukuran pemusatan dan penyebaran data",
-      "answer_key": [
-        "Pernyataan 1",
-        "Pernyataan 2",
-        "Pernyataan 3",
-        "Pernyataan 4"
-      ]
-    }
-  ]
+  }
 }
