@@ -1,0 +1,165 @@
+{
+  "framework": {
+    "name": "TKA Bahasa Indonesia SMA",
+    "sections": {
+      "definisi": {
+        "text": "TKA Bahasa Indonesia difokuskan pada salah satu keterampilan berbahasa, yakni membaca. Membaca dipilih sebagai fokus karena merupakan keterampilan utama yang menjadi fondasi untuk terus belajar dan bekerja pada era teknologi yang berubah dan berkembang sangat cepat."
+      },
+      "muatan": {
+        "description": "Keterampilan membaca diujikan pada dua jenis teks, yaitu teks informasi tunggal maupun jamak, serta teks fiksi.",
+        "jenis_teks": [
+          {
+            "nama": "Teks Informasi",
+            "deskripsi": "Teks informasi dapat berbentuk tunggal maupun jamak, dan merupakan teks yang berisi fakta, konsep, prosedur, dan metakognisi dari berbagai bidang atau topik, genre, dan konteks pada skala lokal, nasional, dan global."
+          },
+          {
+            "nama": "Teks Fiksi",
+            "deskripsi": "Teks fiksi dapat berupa realisme atau absurd, dengan latar cerita konkret atau abstrak, tokoh dengan karakter bulat, konflik tunggal atau jamak dengan penyelesaian terbuka, alur campuran, dan sudut pandang campuran."
+          }
+        ],
+        "karakteristik_teks": {
+          "kosakata": [
+            "kata khusus dan kata umum",
+            "kata berimbuhan kompleks",
+            "kata abstrak",
+            "makna denotatif",
+            "istilah teknis",
+            "konotatif konteks luas"
+          ],
+          "kalimat": [
+            "8-12 kata per kalimat",
+            "kalimat kompleks berbagai pola",
+            "kalimat inversi"
+          ],
+          "wacana": [
+            "konjungsi antarparagraf dengan makna pertentangan",
+            "konjungsi sebab akibat",
+            "tanda baca untuk mendukung ungkapan dan makna",
+            "panjang teks 250–300 kata (kecuali teks puisi)"
+          ]
+        }
+      },
+      "kompetensi": {
+        "aspek_keterampilan_membaca": [
+          "Mengidentifikasi informasi tersurat dalam teks",
+          "Menyusun ulang, mengelompokkan, membuat ikhtisar, dan menyajikan kembali informasi tersurat dalam teks",
+          "Mengidentifikasi dan menyimpulkan informasi tersirat dalam teks",
+          "Menilai gagasan, fakta, atau opini dalam teks",
+          "Menanggapi isi teks, mengidentifikasi diri dengan tokoh atau kejadian, dan menanggapi bahasa penulis dalam teks"
+        ],
+        "tiga_kompetensi_utama": [
+          {
+            "nama": "Pemahaman Tekstual",
+            "deskripsi": "Kemampuan untuk memahami informasi yang dikemukakan secara eksplisit, mengelompokkan, menyusun ulang, dan menyajikan kembali informasi secara eksplisit dari teks."
+          },
+          {
+            "nama": "Pemahaman Inferensial",
+            "deskripsi": "Kemampuan untuk menarik kesimpulan berdasarkan informasi yang tersirat dalam teks."
+          },
+          {
+            "nama": "Evaluasi dan Apresiasi",
+            "deskripsi": "Kemampuan untuk membuat penilaian terhadap ide, menanggapi teks secara emosional dan estetis dengan mempertimbangkan dampaknya terhadap perasaan, imajinasi, serta penggunaan bahasa oleh penulis."
+          }
+        ]
+      },
+      "matriks_asesmen": [
+        {
+          "no": 1,
+          "kompetensi": "Pemahaman Tekstual",
+          "subkompetensi": [
+            "Mengidentifikasi penggunaan kata serapan dari bahasa daerah/asing dalam berbagai bidang.",
+            "Mengidentifikasi latar, karakter, dan/atau fenomena berdasarkan kosakata yang digunakan dalam teks fiksi atau nonfiksi.",
+            "Menyusun kerangka atau bagan berdasarkan bagian-bagian penting dalam teks."
+          ]
+        },
+        {
+          "no": 2,
+          "kompetensi": "Pemahaman Inferensial",
+          "subkompetensi": [
+            "Menyimpulkan ide pokok, gagasan pendukung, tokoh, peristiwa, latar, konflik, atau nilai-nilai dalam teks.",
+            "Menjelaskan hubungan makna antarkalimat dan/atau antarparagraf dalam teks.",
+            "Memprediksi lanjutan atau akhir uraian/cerita berdasarkan bagian tertentu dalam teks."
+          ]
+        },
+        {
+          "no": 3,
+          "kompetensi": "Evaluasi dan Apresiasi",
+          "subkompetensi": [
+            "Menilai relevansi peristiwa dalam teks dengan kehidupan sehari-hari.",
+            "Menilai keakuratan, kesesuaian, kecukupan, atau ketepatan informasi dalam teks.",
+            "Menilai ketepatan dan kesesuaian penggunaan bahasa dalam teks.",
+            "Menilai ketepatan bagian teks untuk menggambarkan karakter, peristiwa, atau latar dalam teks fiksi.",
+            "Menyimpulkan respons emosional terhadap unsur puisi, prosa, dan drama."
+          ]
+        }
+      ]
+    },
+    "contoh_soal": {
+      "teks": "Lautan mengalami ancaman pemanasan dan menjadi semakin asam karena kita terus memompa lebih banyak CO2 ke atmosfer. Selain itu, lautan juga menghadapi ancaman lain dari manusia, yakni penggunaan plastik. Kehidupan modern saat ini didominasi oleh kemasan makanan berbahan plastik yang diolah dengan teknologi tinggi dan digunakan setiap hari oleh masyarakat. Dalam sebuah laporan telah disebutkan bahwa pada tahun 2050 sampah plastik di laut akan lebih banyak daripada jumlah ikan apabila kecenderungan ini terus berlanjut. Hal tersebut merupakan sebuah ancaman besar.\n\nDibutuhkan tindakan skala besar untuk berpindah dari kecenderungan tersebut mengingat banyak pihak yang terlibat dalam bidang pekerjaan ini. Masyarakat sektor swasta dan masyarakat sipil perlu mobilisasi untuk menangkap peluang ekonomi lain di luar dari pengelolaan plastik.\n\nSolusi tersebut tidak mudah. Fakta bahwa harga minyak yang rendah mengakibatkan biaya yang dibutuhkan untuk daur ulang plastik jauh lebih mahal daripada memproduksi yang baru. Kondisi lain yang menunjukkan ekonomi di negara berkembang tumbuh lebih besar menjadikan penggunaan plastik juga meningkat. Solusi yang dibutuhkan adalah cara kita menggunakan plastik. Misalnya dengan mengurangi penggunaan plastik dalam kemasan atau menggunakannya kembali sebanyak yang kita bisa.\n\nProdusen plastik juga dapat membantu dalam pengelolaan plastik, seperti memproduksi barang-barang plastik yang dapat digunakan kembali atau beralih ke plastik yang dapat dijadikan kompos. Solusi apa pun akan membawa perubahan besar dalam cara menggunakan produk yang terbuat dari plastik.",
+      "soal": [
+        {
+          "no": 1,
+          "kompetensi": "Pemahaman Tekstual",
+          "subkompetensi": "Mengidentifikasi penggunaan kata serapan dari bahasa daerah/asing dalam berbagai bidang",
+          "bentuk_soal": "Pilihan Ganda (PG)",
+          "kunci": "A",
+          "pertanyaan": "Makna istilah mobilisasi pada paragraf kedua teks tersebut adalah ....",
+          "opsi": [
+            "A. bergerak bersama",
+            "B. melangkah cepat",
+            "C. beradu cepat",
+            "D. mengatur bersama",
+            "E. berpikir bersama"
+          ]
+        },
+        {
+          "no": 2,
+          "kompetensi": "Pemahaman Inferensial",
+          "subkompetensi": "Menyimpulkan ide pokok, gagasan pendukung, tokoh, peristiwa, latar, konflik, atau nilai-nilai dalam teks.",
+          "bentuk_soal": "Pilihan Ganda (PG)",
+          "kunci": "A",
+          "pertanyaan": "Apa gagasan utama yang disampaikan pada paragraf pertama teks tersebut?",
+          "opsi": [
+            "A. Ancaman plastik terhadap lautan.",
+            "B. Efek dari pemanasan laut.",
+            "C. Kadar tingkat keasaman laut.",
+            "D. Pemompaan CO2 ke atmosfer.",
+            "E. Ancaman bagi negara berkembang."
+          ]
+        },
+        {
+          "no": 3,
+          "kompetensi": "Pemahaman Literal",
+          "subkompetensi": "Menjelaskan hubungan makna antarkalimat dan/atau antarparagraf dalam teks.",
+          "bentuk_soal": "PGK MCMA",
+          "kunci": ["A", "E"],
+          "pertanyaan": "Mengapa lautan menghadapi ancaman pada 2050? Pilihlah jawaban yang benar!",
+          "opsi": [
+            "Sampah plastik di laut akan lebih banyak daripada jumlah ikan.",
+            "Lautan akan terus mengalami pemanasan dan semakin asam.",
+            "Manusia terus memompa lebih banyak CO2 ke atmosfer.",
+            "Jumlah ikan yang terancam punah semakin banyak.",
+            "Penggunaan plastik terus meningkat dan tidak dikelola dengan baik."
+          ]
+        },
+        {
+          "no": 4,
+          "kompetensi": "Evaluasi dan Apresiasi",
+          "subkompetensi": "Menilai ketepatan dan kesesuaian penggunaan bahasa dalam teks.",
+          "bentuk_soal": "PGK Kategori",
+          "kunci": {
+            "A": "Salah",
+            "B": "Benar",
+            "C": "Salah"
+          },
+          "pertanyaan": "Mengapa penulis menggunakan kalimat 'Solusi tersebut tidak mudah.' pada teks?",
+          "pernyataan": [
+            "Menginformasikan kepada pembaca bahwa pemecahan masalah sampah merupakan tanggung jawab utama kita sebagai masyarakat sipil sehingga sulit untuk diselesaikan.",
+            "Menunjukkan kepada pembaca bahwa permasalahan sampah plastik sangat rumit dan tidak bisa diselesaikan dalam jangka waktu singkat.",
+            "Membuktikan kepada pembaca bahwa permasalahan sampah yang rumit disebabkan pemecahan masalah yang bergantung pada perekonomian negara berkembang."
+          ]
+        }
+      ]
+    }
+  }
+}
