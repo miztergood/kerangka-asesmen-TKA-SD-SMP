@@ -1,0 +1,142 @@
+{
+  "framework": {
+    "name": "TKA Sosiologi SMA/Sederajat",
+    "sections": {
+      "definisi": {
+        "text": "TKA Sosiologi dirancang untuk mengukur pemahaman murid terhadap konsep-konsep sosiologi serta kemampuan analisis terhadap fenomena sosial yang terjadi di masyarakat guna menciptakan masyarakat yang setara dan inklusif berlandaskan perbedaan."
+      },
+      "muatan": {
+        "description": "Materi TKA Sosiologi mencakup berbagai kajian dalam sosiologi yang bertujuan membentuk kesadaran sosial, empati, serta kemampuan analisis dinamika sosial di masyarakat.",
+        "elements": [
+          "Sosiologi sebagai Ilmu",
+          "Hubungan dan Gejala Sosial",
+          "Penelitian Sosial",
+          "Kelompok Sosial, Kesetaraan, dan Konflik Sosial",
+          "Perubahan Sosial dan Globalisasi"
+        ],
+        "notes": [
+          "Mengukur perkembangan pemikiran reflektif dan argumentasi berbasis data pada kasus kontekstual.",
+          "Memerlukan pemahaman hubungan antara individu, kelompok, dan lembaga sosial seperti keluarga, agama, pendidikan, politik, dan ekonomi."
+        ]
+      },
+      "kompetensi": [
+        {
+          "level": 1,
+          "name": "Pemahaman",
+          "english": "Knowing",
+          "deskripsi": "Kemampuan dasar murid dalam mengenali, mengingat, dan memahami konsep-konsep sosiologi secara faktual. Soal-soal menguji pengetahuan tentang definisi, konsep, teori, serta langkah prosedural dalam penyelidikan sosiologi."
+        },
+        {
+          "level": 2,
+          "name": "Penerapan",
+          "english": "Applying",
+          "deskripsi": "Kemampuan menerapkan konsep-konsep sosiologi pada fenomena sosial nyata. Murid diharapkan dapat menganalisis kasus, menginterpretasikan data sosial, serta menerapkan prinsip sosiologi dalam memecahkan masalah keseharian."
+        },
+        {
+          "level": 3,
+          "name": "Penalaran",
+          "english": "Reasoning",
+          "deskripsi": "Kemampuan berpikir kritis dan menalar secara logis dengan mengaitkan konsep sosiologi dengan fenomena/realitas nyata yang terjadi di masyarakat. Murid dituntut mampu menganalisis data, menemukan pola, merumuskan kesimpulan, dan memberikan rekomendasi."
+        }
+      ],
+      "matriks_asesmen": [
+        {
+          "no": 1,
+          "elemen": "Sosiologi sebagai Ilmu",
+          "sub_elemen": "Pengertian dan perkembangan sosiologi dan manfaat sosiologi dalam kehidupan masyarakat.",
+          "kompetensi": [
+            "Mendeskripsikan dan menganalisis pengertian dan perkembangan serta manfaat sosiologi sebagai ilmu pengetahuan."
+          ]
+        },
+        {
+          "no": 2,
+          "elemen": "Hubungan dan Gejala Sosial",
+          "sub_elemen": "Konsep dan bentuk hubungan sosial",
+          "kompetensi": [
+            "Mengidentifikasi dan menganalisis konsep dan bentuk hubungan sosial yang terjadi di masyarakat"
+          ]
+        },
+        {
+          "no": 3,
+          "elemen": "Hubungan dan Gejala Sosial",
+          "sub_elemen": "Pembentukan kepribadian, kelompok dan lembaga sosial.",
+          "kompetensi": [
+            "Mengidentifikasi berbagai lembaga sosial dan perannya di masyarakat."
+          ]
+        },
+        {
+          "no": 4,
+          "elemen": "Hubungan dan Gejala Sosial",
+          "sub_elemen": "Ragam gejala sosial.",
+          "kompetensi": [
+            "Menjelaskan ragam gejala sosial di lingkungan sekitar."
+          ]
+        },
+        {
+          "no": 5,
+          "elemen": "Hubungan dan Gejala Sosial",
+          "sub_elemen": "Masyarakat multikultural.",
+          "kompetensi": [
+            "Menganalisis dinamika masyarakat multikultural."
+          ]
+        },
+        {
+          "no": 6,
+          "elemen": "Penelitian Sosial",
+          "sub_elemen": "Langkah penelitian sosial dan metode penelitian.",
+          "kompetensi": [
+            "Menjelaskan dan menganalisis berbagai langkah dan metode penelitian sosial."
+          ]
+        },
+        {
+          "no": 7,
+          "elemen": "Kelompok Sosial, Kesetaraan, dan Konflik Sosial",
+          "sub_elemen": "Konsep Kelompok Sosial dan dinamika Kelompok Sosial.",
+          "kompetensi": [
+            "Mengidentifikasi, menjelaskan, dan menganalisis berbagai kelompok sosial dengan dinamikanya."
+          ]
+        },
+        {
+          "no": 8,
+          "elemen": "Kelompok Sosial, Kesetaraan, dan Konflik Sosial",
+          "sub_elemen": "Ketidaksetaraan sosial dan upaya mewujudkan kesetaraan sosial.",
+          "kompetensi": [
+            "Memahami faktor yang memengaruhi ketidaksetaraan sosial dan menganalisis upaya mewujudkan kesetaraan sosial."
+          ]
+        },
+        {
+          "no": 9,
+          "elemen": "Kelompok Sosial, Kesetaraan, dan Konflik Sosial",
+          "sub_elemen": "Konflik sosial dan penanganan konflik.",
+          "kompetensi": [
+            "Mendeskripsikan berbagai konsep konflik sosial dan menganalisis berbagai upaya penanganan konflik."
+          ]
+        },
+        {
+          "no": 10,
+          "elemen": "Perubahan Sosial dan Globalisasi",
+          "sub_elemen": "Bentuk-bentuk perubahan sosial dan dampaknya.",
+          "kompetensi": [
+            "Mengidentifikasi bentuk-bentuk perubahan sosial dan menganalisis dampak perubahan sosial."
+          ]
+        },
+        {
+          "no": 11,
+          "elemen": "Perubahan Sosial dan Globalisasi",
+          "sub_elemen": "Globalisasi dan dampak globalisasi.",
+          "kompetensi": [
+            "Menjelaskan dan menganalisis pengaruh globalisasi dan dampaknya."
+          ]
+        },
+        {
+          "no": 12,
+          "elemen": "Perubahan Sosial dan Globalisasi",
+          "sub_elemen": "Sikap kritis globalisasi.",
+          "kompetensi": [
+            "Menganalisis fenomena sosial yang dipengaruhi globalisasi secara kritis."
+          ]
+        }
+      ]
+    }
+  }
+}
