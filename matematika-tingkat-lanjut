@@ -1,0 +1,169 @@
+{
+  "framework": {
+    "name": "TKA Matematika Tingkat Lanjut SMA/Sederajat",
+    "sections": {
+      "definisi": {
+        "text": "TKA Matematika Tingkat Lanjut mengukur kemampuan murid dalam memahami fakta, konsep, prinsip, dan prosedur matematika, serta kemampuan mereka dalam menerapkan pengetahuan matematika untuk menyelesaikan masalah (problem solving)."
+      },
+      "muatan": {
+        "description": "Merujuk pada elemen atau materi kurikulum yang ada pada Kurikulum 2013 dan Kurikulum Merdeka.",
+        "elements": [
+          "aljabar",
+          "geometri dan pengukuran",
+          "kalkulus"
+        ],
+        "notes": [
+          "Penggunaan logika matematika diintegrasikan langsung dengan elemen matematika yang tertera dalam kurikulum.",
+          "Penguasaan materi matematika diukur melalui berbagai permasalahan dalam konteks matematika maupun permasalahan dalam konteks keseharian (personal, keluarga, atau lingkungan sekitar baik lokal maupun global)."
+        ]
+      },
+      "kompetensi": [
+        {
+          "level": 1,
+          "name": "Pengetahuan dan Pemahaman",
+          "english": "Knowing and Understanding",
+          "proses_berpikir": [
+            {
+              "nama": "Menghitung",
+              "deskripsi": "Melakukan perhitungan berdasarkan prosedur yang mencakup operasi hitung aritmatika (+, -, ×, ÷, atau kombinasinya), operasi aljabar, atau operasi matematika lainnya."
+            },
+            {
+              "nama": "Memahami informasi",
+              "deskripsi": "Memahami informasi dari grafik fungsi, tabel, diagram, infografis, atau bentuk visual lainnya."
+            },
+            {
+              "nama": "Mengelompokkan",
+              "deskripsi": "Mengelompokkan objek berdasarkan fakta, konsep, dan prinsip matematika dalam cakupan sub-elemen."
+            },
+            {
+              "nama": "Mengidentifikasi",
+              "deskripsi": "Melakukan identifikasi terhadap objek menggunakan konsep, fakta, dan prinsip matematika dalam cakupan sub-elemen."
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Aplikasi",
+          "english": "Applying",
+          "proses_berpikir": [
+            {
+              "nama": "Memodelkan",
+              "deskripsi": "Memodelkan permasalahan kontekstual terkait cakupan sub-elemen ke dalam pernyataan matematika."
+            },
+            {
+              "nama": "Menerapkan",
+              "deskripsi": "Menerapkan strategi dan operasi matematika (berupa operasi hitung, operasi aljabar, atau bentuk operasi lainnya) untuk menyelesaikan permasalahan yang melibatkan konsep dan prosedur matematis yang familier dan rutin."
+            },
+            {
+              "nama": "Menginterpretasi",
+              "deskripsi": "Memahami dan menjelaskan makna dari berbagai situasi, kejadian, pernyataan, representasi, atau masalah matematika."
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Penalaran",
+          "english": "Reasoning",
+          "proses_berpikir": [
+            {
+              "nama": "Menganalisis",
+              "deskripsi": "Menentukan, menjelaskan, dan menggunakan hubungan beberapa konsep, fakta, prinsip, atau prosedur matematika dalam cakupan sub-elemen."
+            },
+            {
+              "nama": "Memecahkan masalah",
+              "deskripsi": "Mengaitkan beberapa konsep, fakta, prinsip, prosedur, dan representasi matematika dalam cakupan sub-elemen, untuk menyelesaikan permasalahan dalam situasi baru atau konteks yang tidak rutin."
+            },
+            {
+              "nama": "Mengevaluasi",
+              "deskripsi": "Mengevaluasi alternatif strategi dan solusi dari suatu pemecahan masalah."
+            },
+            {
+              "nama": "Menyimpulkan",
+              "deskripsi": "Menarik kesimpulan yang valid dari informasi, data, atau bukti yang diberikan menggunakan konsep, fakta, prinsip, dan prosedur matematika dalam cakupan sub-elemen."
+            },
+            {
+              "nama": "Melakukan generalisasi",
+              "deskripsi": "Menyusun pernyataan matematis yang menggambarkan hubungan yang lebih umum terkait konsep, fakta, prinsip, dan prosedur dalam cakupan sub-elemen."
+            },
+            {
+              "nama": "Menjustifikasi",
+              "deskripsi": "Memberikan argumen matematis atau langkah/prosedur operasi matematika secara logis untuk mendukung strategi atau solusi dari suatu permasalahan."
+            }
+          ]
+        }
+      ],
+      "matriks_asesmen": [
+        {
+          "no": 1,
+          "elemen": "Aljabar",
+          "sub_elemen": "Matriks",
+          "kompetensi": [
+            "Determinan matriks",
+            "Invers matriks",
+            "Operasi matriks"
+          ],
+          "batasan_catatan": "Elemen matriks merupakan bilangan real. Determinan dan invers matriks berukuran 2 x 2 atau 3 x 3."
+        },
+        {
+          "no": 2,
+          "elemen": "Aljabar",
+          "sub_elemen": "Polinomial",
+          "kompetensi": [
+            "Operasi polinomial",
+            "Pemfaktoran polinomial",
+            "Suku sisa"
+          ],
+          "batasan_catatan": "Orde dari polinomial maksimum 4 dan semua koefisien polinomial berupa bilangan real."
+        },
+        {
+          "no": 3,
+          "elemen": "Aljabar",
+          "sub_elemen": "Fungsi",
+          "kompetensi": [
+            "Domain, kodomain, daerah hasil (range), dan grafik fungsi polinom, rasional, akar, eksponensial, logaritma, mutlak, trigonometri"
+          ],
+          "batasan_catatan": "Fungsi polinom maksimum berorde 4. Bilangan pokok fungsi eksponensial berupa bilangan asli."
+        },
+        {
+          "no": 4,
+          "elemen": "Geometri dan Pengukuran",
+          "sub_elemen": "Vektor",
+          "kompetensi": [
+            "Vektor pada bidang dan ruang",
+            "Panjang vektor",
+            "Operasi vektor"
+          ],
+          "batasan_catatan": "Komponen vektor maksimum tiga."
+        },
+        {
+          "no": 5,
+          "elemen": "Geometri dan Pengukuran",
+          "sub_elemen": "Lingkaran",
+          "kompetensi": [
+            "Persamaan lingkaran dan persamaan garis singgung lingkaran",
+            "Luas dan keliling daerah lingkaran atau bagian daerah lingkaran"
+          ]
+        },
+        {
+          "no": 6,
+          "elemen": "Geometri dan Pengukuran",
+          "sub_elemen": "Transformasi Geometri",
+          "kompetensi": [
+            "Transformasi geometri (translasi, refleksi, rotasi, dilatasi, serta komposisinya) dari bentuk geometris dan matriks transformasinya"
+          ],
+          "batasan_catatan": "Bentuk geometris yang ditransformasi meliputi titik, garis, dan bangun datar."
+        },
+        {
+          "no": 7,
+          "elemen": "Kalkulus",
+          "sub_elemen": "Limit",
+          "kompetensi": [
+            "Limit fungsi aljabar",
+            "Limit fungsi trigonometri"
+          ],
+          "batasan_catatan": "Limit yang dapat diselesaikan tanpa menggunakan Teorema L’Hopital."
+        }
+      ]
+    }
+  }
+}
