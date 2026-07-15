@@ -1,0 +1,140 @@
+{
+  "framework": {
+    "name": "TKA Geografi SMA/Sederajat",
+    "sections": {
+      "definisi": {
+        "text": "TKA Geografi mengukur kemampuan murid jenjang SMA dalam memahami, menerapkan, dan menganalisis pengetahuan faktual, konseptual, serta prosedural yang berkaitan dengan fenomena geosfer."
+      },
+      "muatan": {
+        "description": "Muatan TKA Geografi difokuskan pada fenomena geosfer yang meliputi pemahaman ruang wilayah, lingkungan, dan interaksi manusia dengan alam.",
+        "elements": [
+          "Wilayah tempat tinggal dan lingkungan sekitar",
+          "Proses yang memengaruhi lingkungan fisik dan sosial",
+          "Interaksi antargejala fisik alam dan manusia dan pengaruhnya terhadap kehidupan",
+          "Cara mitigasi dan adaptasi terhadap bencana alam",
+          "Fenomena geografi dalam kehidupan sehari-hari dan manfaatnya"
+        ],
+        "notes": [
+          "Muatan mencakup karakteristik, keunikan, persamaan-perbedaan wilayah tempat tinggal dan lingkungan sekitar.",
+          "Mencakup mitigasi dan adaptasi terhadap bencana alam di lingkungan tempat tinggal dan negaranya."
+        ]
+      },
+      "kompetensi": [
+        {
+          "level": 1,
+          "name": "Pemahaman",
+          "english": "Knowing/Understanding",
+          "deskripsi": "Memahami pengetahuan faktual, konseptual, dan prosedural yang berkaitan dengan fenomena geosfer."
+        },
+        {
+          "level": 2,
+          "name": "Penerapan",
+          "english": "Applying",
+          "deskripsi": "Menerapkan pengetahuan faktual, konseptual, dan prosedural geografi untuk memecahkan permasalahan atau menjelaskan fenomena."
+        },
+        {
+          "level": 3,
+          "name": "Penalaran",
+          "english": "Reasoning",
+          "deskripsi": "Penalaran dalam menyelesaikan permasalahan yang terkait karakteristik dan masalah wilayah tempat tinggal, lingkungan fisik dan sosial, mitigasi bencana, serta pemanfaatan fenomena geografi dalam kehidupan sehari-hari."
+        }
+      ],
+      "matriks_asesmen": [
+        {
+          "no": 1,
+          "elemen": "Wilayah tempat tinggal dan lingkungan sekitar (karakteristik, keunikan, persamaan–perbedaan wilayah)",
+          "sub_elemen": "Karakteristik fisik dan sosial wilayah",
+          "kompetensi": [
+            "Menjelaskan karakteristik wilayah berdasarkan informasi spasial."
+          ]
+        },
+        {
+          "no": 2,
+          "elemen": "Wilayah tempat tinggal dan lingkungan sekitar (karakteristik, keunikan, persamaan–perbedaan wilayah)",
+          "sub_elemen": "Konsep dan teori dasar mengenai dinamika kependudukan pada suatu wilayah tempat tinggal",
+          "kompetensi": [
+            "Menganalisis konsep dan teori dasar mengenai dinamika kependudukan pada suatu wilayah tempat tinggal"
+          ]
+        },
+        {
+          "no": 3,
+          "elemen": "Wilayah tempat tinggal dan lingkungan sekitar (karakteristik, keunikan, persamaan–perbedaan wilayah)",
+          "sub_elemen": "Keterkaitan antara karakteristik wilayah fisik dan sosial (kependudukan)",
+          "kompetensi": [
+            "Menganalisis keterkaitan antara karakteristik wilayah fisik dan sosial (kependudukan) terhadap daya dukung lingkungan;"
+          ]
+        },
+        {
+          "no": 4,
+          "elemen": "Wilayah tempat tinggal dan lingkungan sekitar (karakteristik, keunikan, persamaan–perbedaan wilayah)",
+          "sub_elemen": "Permasalahan kewilayahan",
+          "kompetensi": [
+            "Menerapkan penelitian geografi untuk memecahkan permasalahan kewilayahan"
+          ]
+        },
+        {
+          "no": 5,
+          "elemen": "Proses yang memengaruhi lingkungan fisik dan sosial",
+          "sub_elemen": "Faktor yang berpengaruh dalam lingkungan sosial",
+          "kompetensi": [
+            "Menerapkan indikator-indikator keberhasilan Pembangunan untuk pengembangan wilayah",
+            "Menganalisis konsep dinamika kependudukan dan faktor-faktor yang mempengaruhinya"
+          ]
+        },
+        {
+          "no": 6,
+          "elemen": "Proses yang memengaruhi lingkungan fisik dan sosial",
+          "sub_elemen": "Proses/fenomena yang memengaruhi lingkungan fisik",
+          "kompetensi": [
+            "Menggunakan informasi tentang proses alam untuk menjelaskan perubahan lingkungan fisik di wilayah tertentu.",
+            "Menganalisis peranan manusia dalam mengubah lingkungan fisik",
+            "Menganalisis persebaran bioma di dunia dan pengaruhnya terhadap manusia."
+          ]
+        },
+        {
+          "no": 7,
+          "elemen": "Interaksi antargejala fisik alam dan manusia dan pengaruhnya terhadap kehidupan",
+          "sub_elemen": "Posisi strategis Indonesia dan pengaruhnya bagi kehidupan ekonomi, sosial, budaya secara nasional maupun internasional",
+          "kompetensi": [
+            "Menjelaskan posisi geografis Indonesia."
+          ]
+        },
+        {
+          "no": 8,
+          "elemen": "Interaksi antargejala fisik alam dan manusia dan pengaruhnya terhadap kehidupan",
+          "sub_elemen": "Potensi Sumber Daya Alam Indonesia terhadap dinamika kehidupan",
+          "kompetensi": [
+            "Menganalisis pemanfaatan SDA sesuai konteks wilayah dengan menggunakan informasi (peta, data)",
+            "Menganalisis pengelolaan SDA secara berkelanjutan"
+          ]
+        },
+        {
+          "no": 9,
+          "elemen": "Cara mitigasi dan adaptasi terhadap bencana alam di lingkungan tempat tinggal dan negaranya.",
+          "sub_elemen": "Bencana geologis/ hidroklimatologis",
+          "kompetensi": [
+            "Menganalisis ragam risiko dan faktor penyebab bencana alam."
+          ]
+        },
+        {
+          "no": 10,
+          "elemen": "Cara mitigasi dan adaptasi terhadap bencana alam di lingkungan tempat tinggal dan negaranya.",
+          "sub_elemen": "Mitigasi dan adaptasi manusia terhadap bencana geologis/ hidroklimatologis",
+          "kompetensi": [
+            "Menggunakan data atau studi kasus untuk menjelaskan bentuk adaptasi masyarakat terhadap bencana geologis atau hidroklimatologis di suatu wilayah.",
+            "Mengevaluasi upaya pengurangan risiko bencana geologis/ hidroklimatologis."
+          ]
+        },
+        {
+          "no": 11,
+          "elemen": "Fenomena geografi dalam kehidupan sehari-hari dan manfaatnya",
+          "sub_elemen": "Peta, penginderaan jauh dan SIG (Sistem Informasi Geografis)",
+          "kompetensi": [
+            "Menjelaskan penggunaan informasi Geospasial dalam kehidupan sehari-hari",
+            "Menganalisis fenomena geosfer dari peta/citra penginderaan jauh."
+          ]
+        }
+      ]
+    }
+  }
+}
