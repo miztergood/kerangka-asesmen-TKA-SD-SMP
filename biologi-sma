@@ -1,0 +1,145 @@
+{
+  "framework": {
+    "name": "TKA Biologi SMA/Sederajat",
+    "sections": {
+      "definisi": {
+        "text": "TKA Biologi mengukur kemampuan berpikir terkait konsep-konsep biologi dan keterampilan proses/inkuiri. Penguasaan konsep biologi menjadi prasyarat untuk dapat melakukan proses berpikir dan keterampilan proses."
+      },
+      "muatan": {
+        "description": "Konsep-konsep biologi yang diukur mencakup keanekaragaman hayati, sel, proses-proses pada makhluk hidup, serta keterampilan proses biologi.",
+        "elements": [
+          "Keanekaragaman hayati",
+          "Sel",
+          "Proses-proses pada makhluk hidup",
+          "Keterampilan proses"
+        ],
+        "notes": [
+          "Pemahaman tentang konsep biologi disajikan dalam konteks kehidupan sehari-hari murid, seperti topik kesehatan, lingkungan, pertanian, maupun sosiokultural untuk meningkatkan keterampilan berpikir kritis dan pemecahan masalah."
+        ]
+      },
+      "kompetensi": [
+        {
+          "level": 1,
+          "name": "Pemahaman",
+          "english": "Knowing/Understanding",
+          "deskripsi": "Menjelaskan konsep-konsep biologi berdasarkan informasi yang telah dipelajari atau disediakan."
+        },
+        {
+          "level": 2,
+          "name": "Penerapan",
+          "english": "Applying",
+          "deskripsi": "Menerapkan konsep dan pengetahuan biologi untuk memecahkan masalah biologi."
+        },
+        {
+          "level": 3,
+          "name": "Penalaran",
+          "english": "Reasoning",
+          "deskripsi": "Menganalisis, mengevaluasi, dan menarik kesimpulan dari informasi biologis yang kompleks atau baru, serta mengembangkan argumen berbasis bukti."
+        }
+      ],
+      "matriks_asesmen": [
+        {
+          "no": 1,
+          "elemen": "Keanekaragaman Hayati",
+          "sub_elemen": "Klasifikasi dan keanekaragaman makhluk hidup",
+          "kompetensi": [
+            "Menganalisis prinsip klasifikasi dan permasalahan keanekaragaman hayati."
+          ],
+          "batasan_catatan": "Keanekaragaman hayati yang dimaksud adalah keanekaragaman hayati di Indonesia."
+        },
+        {
+          "no": 2,
+          "elemen": "Keanekaragaman Hayati",
+          "sub_elemen": "Bakteri",
+          "kompetensi": [
+            "Menganalisis struktur bakteri dan peranannya terhadap manusia."
+          ],
+          "batasan_catatan": "Struktur bakteri, resistensi bakteri, dan peranannya terhadap manusia."
+        },
+        {
+          "no": 3,
+          "elemen": "Keanekaragaman Hayati",
+          "sub_elemen": "Ekosistem",
+          "kompetensi": [
+            "Menganalisis komponen-komponen ekosistem, interaksi antarkomponen, dan solusi atas permasalahannya."
+          ],
+          "batasan_catatan": "Ekosistem yang ada di Indonesia."
+        },
+        {
+          "no": 4,
+          "elemen": "Sel",
+          "sub_elemen": "Metabolisme sel",
+          "kompetensi": [
+            "Menganalisis proses metabolisme dan peran enzim."
+          ],
+          "batasan_catatan": "Katabolisme; anabolisme; sifat dan cara kerja enzim."
+        },
+        {
+          "no": 5,
+          "elemen": "Proses-proses pada Makhluk Hidup",
+          "sub_elemen": "Transport dan pertukaran zat pada manusia",
+          "kompetensi": [
+            "Menganalisis keterkaitan struktur organ pada sistem sirkulasi dan fungsinya.",
+            "Menganalisis keterkaitan struktur organ pada sistem respirasi dan fungsinya.",
+            "Menganalisis keterkaitan struktur organ pada sistem ekskresi dan fungsinya."
+          ],
+          "batasan_catatan": "Keterkaitan antarsistem."
+        },
+        {
+          "no": 6,
+          "elemen": "Proses-proses pada Makhluk Hidup",
+          "sub_elemen": "Sistem imun",
+          "kompetensi": [
+            "Menganalisis peran sistem imun terhadap kekebalan tubuh."
+          ],
+          "batasan_catatan": "Mekanisme kerja sistem imun."
+        },
+        {
+          "no": 7,
+          "elemen": "Proses-proses pada Makhluk Hidup",
+          "sub_elemen": "Sistem koordinasi",
+          "kompetensi": [
+            "Menganalisis sistem koordinasi dalam tubuh manusia."
+          ],
+          "batasan_catatan": "Mekanisme kerja sistem saraf dan sistem hormon."
+        },
+        {
+          "no": 8,
+          "elemen": "Proses-proses pada Makhluk Hidup",
+          "sub_elemen": "Sistem reproduksi",
+          "kompetensi": [
+            "Menganalisis keterkaitan struktur organ pada sistem reproduksi dan fungsinya."
+          ],
+          "batasan_catatan": "Struktur dan fungsi organ reproduksi."
+        },
+        {
+          "no": 9,
+          "elemen": "Keterampilan Proses",
+          "sub_elemen": "Mempertanyakan dan memprediksi",
+          "kompetensi": [
+            "Merumuskan pertanyaan yang dapat diselidiki secara ilmiah."
+          ],
+          "batasan_catatan": "Konteks soal sesuai dengan konten pengetahuan pada elemen keanekaragaman hayati, sel, dan proses-proses pada makhluk hidup."
+        },
+        {
+          "no": 10,
+          "elemen": "Keterampilan Proses",
+          "sub_elemen": "Merencanakan dan melakukan penyelidikan",
+          "kompetensi": [
+            "Merancang penyelidikan ilmiah."
+          ],
+          "batasan_catatan": "Konteks soal sesuai dengan konten pengetahuan pada elemen keanekaragaman hayati, sel, dan proses-proses pada makhluk hidup."
+        },
+        {
+          "no": 11,
+          "elemen": "Keterampilan Proses",
+          "sub_elemen": "Memproses, menganalisis data dan informasi",
+          "kompetensi": [
+            "Mengolah data dan menyimpulkan hasil penyelidikan."
+          ],
+          "batasan_catatan": "Konteks soal sesuai dengan konten pengetahuan pada elemen keanekaragaman hayati, sel, dan proses-proses pada makhluk hidup."
+        }
+      ]
+    }
+  }
+}
