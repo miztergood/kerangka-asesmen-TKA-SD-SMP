@@ -1,0 +1,80 @@
+{
+  "framework": {
+    "name": "TKA Bahasa Indonesia Tingkat Lanjut SMA/Sederajat",
+    "sections": {
+      "definisi": {
+        "text": "TKA Bahasa Indonesia Tingkat Lanjut difokuskan pada keterampilan membaca teks informasi tunggal maupun jamak, serta teks fiksi."
+      },
+      "muatan": {
+        "description": "Keterampilan membaca diujikan pada teks informasi (fakta, konsep, prosedur, metakognisi) dan teks fiksi (realisme, absurd).",
+        "elements": [
+          "teks informasi tunggal maupun jamak",
+          "teks fiksi"
+        ],
+        "notes": [
+          "Kosakata: kata khusus dan umum, berimbuhan kompleks, abstrak, makna denotatif, istilah teknis, konotatif konteks luas, nuansa makna.",
+          "Kalimat: kalimat kompleks berbagai pola, efektif, logis.",
+          "Wacana: wacana yang kohesif dan koheren, konjungsi antarparagraf, penggunaan ejaan; panjang teks 300–350 kata (kecuali teks puisi)."
+        ]
+      },
+      "kompetensi": [
+        {
+          "level": 1,
+          "name": "Pemahaman Tekstual",
+          "english": "Textual Understanding",
+          "deskripsi": "Kemampuan untuk memahami informasi yang dikemukakan secara eksplisit, mengelompokkan, menyusun ulang, dan menyajikan kembali informasi secara eksplisit dari teks."
+        },
+        {
+          "level": 2,
+          "name": "Pemahaman Inferensial",
+          "english": "Inferential Understanding",
+          "deskripsi": "Kemampuan untuk menarik kesimpulan berdasarkan informasi yang tersirat dalam teks."
+        },
+        {
+          "level": 3,
+          "name": "Evaluasi dan Apresiasi",
+          "english": "Evaluation and Appreciation",
+          "deskripsi": "Kemampuan untuk membuat penilaian terhadap ide, menanggapi teks secara emosional dan estetis dengan mempertimbangkan dampaknya terhadap perasaan, imajinasi, serta penggunaan bahasa oleh penulis."
+        }
+      ],
+      "matriks_asesmen": [
+        {
+          "no": 1,
+          "elemen": "Membaca",
+          "sub_elemen": "Pemahaman Tekstual",
+          "kompetensi": [
+            "Mengidentifikasi informasi dalam teks akademik.",
+            "Mengidentifikasi kalimat yang tepat untuk menyampaikan tanggapan, respons, dan kritik sesuai norma sosial dan budaya.",
+            "Mengidentifikasi kalimat yang tepat dalam pengajuan usulan, perumusan masalah, dan pemecahan masalah pada teks dalam bidang akademik dan/atau dunia kerja.",
+            "Mengidentifikasi karakter, peristiwa, latar pada sastra Indonesia atau terjemahan."
+          ]
+        },
+        {
+          "no": 2,
+          "elemen": "Membaca",
+          "sub_elemen": "Pemahaman Inferensial",
+          "kompetensi": [
+            "Membandingkan nilai-nilai (budaya, sosial, moral, religius, dan/atau pendidikan) dalam karya sastra Indonesia dan/atau terjemahan.",
+            "Mengungkapkan kembali isi sastra Melayu Klasik.",
+            "Mengubah informasi dari tabel/grafik menjadi uraian atau uraian menjadi tabel/grafik dalam bidang akademik dan/atau dunia kerja.",
+            "Menjelaskan ketepatan penggunaan bahasa, kiasan, dan atau citraan dalam teks.",
+            "Menjelaskan ketepatan penggunaan afiks, konstruksi frasa, konstruksi klausa, dan/atau kalimat dalam teks.",
+            "Menjelaskan kohesi dan koherensi dalam teks ilmiah."
+          ]
+        },
+        {
+          "no": 3,
+          "elemen": "Membaca",
+          "sub_elemen": "Evaluasi dan Apresiasi",
+          "kompetensi": [
+            "Menilai gagasan dan pandangan dalam berbagai teks (digital atau cetak) berdasarkan kaidah logika berpikir.",
+            "Menilai ketepatan dan kesesuaian isi antarteks (digital atau cetak) dalam bidang sosial, akademik, dan dunia kerja.",
+            "Menilai gagasan atau tindakan tokoh berdasarkan norma atau nilai individu dan sosial.",
+            "Mengalihwahanakan puisi (Indonesia dan/atau terjemahan) dalam bentuk prosa.",
+            "Menyimpulkan respons emosional terhadap unsur puisi, prosa, dan drama Indonesia atau terjemahan."
+          ]
+        }
+      ]
+    }
+  }
+}
