@@ -1,0 +1,79 @@
+{
+  "framework": {
+    "name": "TKA Pendidikan Pancasila dan Kewarganegaraan/Pendidikan Pancasila SMA/Sederajat",
+    "sections": {
+      "definisi": {
+        "text": "TKA Pendidikan Pancasila dan Kewarganegaraan/Pendidikan Pancasila mengukur kemampuan murid dalam menjelaskan, menerapkan dan menganalisis Pancasila, Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, Bhinneka Tunggal Ika, dan komitmen terhadap Negara Kesatuan Republik Indonesia sebagai warga negara yang cerdas, demokratis dan bertanggung jawab."
+      },
+      "muatan": {
+        "description": "Muatan disusun berdasarkan elemen atau materi Pendidikan Pancasila dan Kewarganegaraan pada Kurikulum 2013 dengan Pendidikan Pancasila pada Kurikulum Merdeka.",
+        "elements": [
+          "Pancasila",
+          "Undang-Undang Dasar Negara Republik Indonesia Tahun 1945",
+          "Bhinneka Tunggal Ika",
+          "Negara Kesatuan Republik Indonesia"
+        ],
+        "notes": [
+          "Pancasila meliputi Pancasila sebagai dasar negara, ideologi negara, identitas nasional, hak asasi manusia dan demokrasi Pancasila.",
+          "UUD 1945 meliputi penegakan hukum, perlindungan HAM, ketentuan UUD NRI Tahun 1945, demokrasi, hubungan pemerintah pusat dan daerah.",
+          "Bhinneka Tunggal Ika meliputi integrasi nasional, mengelola kebinekaan sebagai modal sosial, harmoni dalam keberagaman, dan ancaman terhadap kebinekaan.",
+          "Komitmen terhadap NKRI meliputi perilaku warga negara yang baik, menjaga keutuhan NKRI, sistem pertahanan Indonesia, peran Indonesia dalam perdamaian dunia, dan demokrasi Indonesia."
+        ]
+      },
+      "kompetensi": [
+        {
+          "level": 1,
+          "name": "Pemahaman",
+          "english": "Knowing/Understanding",
+          "deskripsi": "Pemahaman konsep Pancasila, UUD tahun 1945, Bhinneka Tunggal Ika, dan komitmen terhadap Negara Kesatuan Republik Indonesia."
+        },
+        {
+          "level": 2,
+          "name": "Penerapan",
+          "english": "Applying",
+          "deskripsi": "Penerapan konsep Pancasila, UUD tahun 1945, Bhinneka Tunggal Ika, dan komitmen terhadap Negara Kesatuan Republik Indonesia."
+        },
+        {
+          "level": 3,
+          "name": "Penalaran",
+          "english": "Reasoning",
+          "deskripsi": "Penalaran dalam menyelesaikan permasalahan terkait Pancasila, UUD tahun 1945, Bhinneka Tunggal Ika, dan komitmen terhadap Negara Kesatuan Republik Indonesia."
+        }
+      ],
+      "matriks_asesmen": [
+        {
+          "no": 1,
+          "elemen": "Pancasila",
+          "sub_elemen": "Pancasila sebagai dasar negara, ideologi negara, identitas nasional, hak asasi manusia dan demokrasi Pancasila",
+          "kompetensi": [
+            "Menjelaskan, menerapkan dan menganalisis makna sila-sila Pancasila, sejarah perumusan Pancasila, dasar negara, ideologi, identitas nasional, pelaksanaan hak asasi manusia, demokrasi Pancasila, permasalahan dan solusi dalam penerapan nilai-nilai Pancasila."
+          ]
+        },
+        {
+          "no": 2,
+          "elemen": "Undang-Undang Dasar Negara Republik Indonesia Tahun 1945",
+          "sub_elemen": "Penegakan hukum, perlindungan HAM, ketentuan UUD NRI Tahun 1945, demokrasi, hubungan pemerintah pusat dan daerah, kewenangan lembaga negara, hak dan kewajiban warga negara",
+          "kompetensi": [
+            "Menjelaskan, menerapkan, dan menganalisis perilaku taat hukum, sejarah dan perkembangan undang-undang dasar di Indonesia, kewenangan lembaga negara menurut UUD NRI Tahun 1945, hubungan pemerintah pusat dengan pemerintah daerah, demokrasi, hak dan kewajiban warga negara."
+          ]
+        },
+        {
+          "no": 3,
+          "elemen": "Bhinneka Tunggal Ika",
+          "sub_elemen": "Integrasi nasional, mengelola kebinekaan sebagai modal sosial, harmoni dalam keberagaman, implementasi prinsip gotong royong, dan ancaman terhadap kebinekaan",
+          "kompetensi": [
+            "Menjelaskan, menerapkan dan menganalisis kebersamaan dan keberagaman dalam Bhinneka Tunggal Ika, implementasi prinsip gotong royong, kebinekaan sebagai modal sosial, dan potensi ancaman terhadap keberagaman."
+          ]
+        },
+        {
+          "no": 4,
+          "elemen": "Negara Kesatuan Republik Indonesia",
+          "sub_elemen": "Perilaku warga negara yang baik, bentuk negara, bentuk dan sistem pemerintahan, pengaruh kemajuan IPTEKS terhadap NKRI, menjaga keutuhan NKRI dalam konteks Wawasan Nusantara, menjadi pelopor pemilih pemula dalam demokrasi Indonesia, menjaga keutuhan NKRI, 시스템 pertahanan Indonesia, peran Indonesia dalam perdamaian dunia, dan demokrasi Indonesia",
+          "kompetensi": [
+            "Menjelaskan, menerapkan dan menganalisis perilaku yang sesuai dengan hak dan kewajiban warga negara, menjaga keutuhan NKRI, peran Indonesia dalam perdamaian dunia, sistem pertahanan dan keamanan negara, praktik demokrasi, bentuk negara, bentuk pemerintahan, dan sistem pemerintahan."
+          ]
+        }
+      ]
+    }
+  }
+}
