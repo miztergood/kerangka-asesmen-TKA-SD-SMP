@@ -1,0 +1,125 @@
+{
+  "framework": {
+    "name": "TKA Ekonomi SMA/Sederajat",
+    "sections": {
+      "definisi": {
+        "text": "TKA Ekonomi bertujuan untuk menilai pemahaman konseptual dan keterampilan analitis murid dalam bidang ekonomi. Selain menguji pemahaman konsep, TKA Ekonomi juga dirancang untuk mengukur keterampilan berpikir kritis dalam menganalisis isu ekonomi dan keuangan berdasarkan fenomena aktual yang terjadi di masyarakat, baik dalam lingkup nasional maupun global."
+      },
+      "muatan": {
+        "description": "Muatan TKA Ekonomi disajikan secara konseptual maupun dalam berbagai konteks yang mencerminkan permasalahan ekonomi di dunia nyata.",
+        "elements": [
+          "Konsep Dasar Ilmu Ekonomi",
+          "Ekonomi Mikro dan Makro",
+          "Ekonomi Internasional",
+          "Akuntansi Keuangan Dasar"
+        ],
+        "notes": [
+          "Pemahaman konsep meliputi prinsip dasar ekonomi (kelangkaan, biaya peluang), ekonomi mikro dan makro (permintaan/penawaran, pertumbuhan, ketenagakerjaan, kebijakan moneter/fiskal), ekonomi internasional, dan akuntansi dasar.",
+          "Keterampilan proses meliputi keterampilan analitis, pemecahan masalah ekonomi, dan pengambilan keputusan ekonomi berdasarkan data, grafik, dan fenomena nyata."
+        ]
+      },
+      "kompetensi": [
+        {
+          "level": 1,
+          "name": "Pemahaman",
+          "english": "Knowing",
+          "deskripsi": "Murid diharapkan mampu mengenali, mengingat, dan memahami konsep dasar ilmu ekonomi, konsep ekonomi makro dan ekonomi mikro, ekonomi internasional, serta konsep dasar akuntansi (menguji pengetahuan tentang definisi, teori, serta konsep dasar yang menjadi fondasi ekonomi)."
+        },
+        {
+          "level": 2,
+          "name": "Penerapan",
+          "english": "Applying",
+          "deskripsi": "Murid dapat mengaplikasikan konsep dasar ilmu ekonomi, konsep ekonomi makro dan mikro, ekonomi internasional, serta konsep dasar akuntansi. Mampu melakukan perhitungan, menginterpretasikan data, dan menerapkan prinsip ekonomi untuk menyelesaikan masalah."
+        },
+        {
+          "level": 3,
+          "name": "Penalaran",
+          "english": "Reasoning",
+          "deskripsi": "Murid dapat berpikir kritis dan menalar secara logis dengan mengaitkan konsep ekonomi dengan fenomena nyata. Dituntut mampu menganalisis data, mengevaluasi, dan menarik kesimpulan dalam pengambilan keputusan ekonomi."
+        }
+      ],
+      "matriks_asesmen": [
+        {
+          "no": 1,
+          "elemen": "Konsep Dasar Ilmu Ekonomi",
+          "sub_elemen": "Konsep dasar ilmu ekonomi: kelangkaan, biaya peluang, dan kegiatan ekonomi",
+          "kompetensi": [
+            "Menganalisis konsep dasar ilmu ekonomi mencakup kelangkaan, biaya peluang, dan kegiatan ekonomi"
+          ]
+        },
+        {
+          "no": 2,
+          "elemen": "Ekonomi Mikro dan Makro",
+          "sub_elemen": "Permintaan, penawaran, dan keseimbangan pasar",
+          "kompetensi": [
+            "Menganalisis permintaan, penawaran, dan keseimbangan pasar"
+          ]
+        },
+        {
+          "no": 3,
+          "elemen": "Ekonomi Mikro dan Makro",
+          "sub_elemen": "Pendapatan nasional, pertumbuhan ekonomi, dan pembangunan ekonomi",
+          "kompetensi": [
+            "Menganalisis konsep pendapatan nasional, pertumbuhan ekonomi, dan pembangunan ekonomi"
+          ]
+        },
+        {
+          "no": 4,
+          "elemen": "Ekonomi Mikro dan Makro",
+          "sub_elemen": "Ketenagakerjaan",
+          "kompetensi": [
+            "Menganalisis konsep ketenagakerjaan dan permasalahannya"
+          ]
+        },
+        {
+          "no": 5,
+          "elemen": "Ekonomi Mikro dan Makro",
+          "sub_elemen": "Indeks Harga dan Inflasi",
+          "kompetensi": [
+            "Mengevaluasi indeks harga dan inflasi"
+          ]
+        },
+        {
+          "no": 6,
+          "elemen": "Ekonomi Mikro dan Makro",
+          "sub_elemen": "Bank sentral dan kebijakan moneter",
+          "kompetensi": [
+            "Mengidentifikasi peran bank sentral dan menganalisis kebijakan moneter"
+          ]
+        },
+        {
+          "no": 7,
+          "elemen": "Ekonomi Mikro dan Makro",
+          "sub_elemen": "Kebijakan fiskal dan perpajakan",
+          "kompetensi": [
+            "Menerapkan konsep perpajakan dan menganalisis kebijakan fiskal"
+          ]
+        },
+        {
+          "no": 8,
+          "elemen": "Ekonomi Mikro dan Makro",
+          "sub_elemen": "Manajemen badan usaha dalam perekonomian Indonesia (BUMN, BUMD, BUMS, dan Koperasi)",
+          "kompetensi": [
+            "Mendeskripsikan konsep manajemen badan usaha dalam perekonomian Indonesia"
+          ]
+        },
+        {
+          "no": 9,
+          "elemen": "Ekonomi Internasional",
+          "sub_elemen": "Kerja sama ekonomi dan perdagangan internasional",
+          "kompetensi": [
+            "Menganalisis kerja sama ekonomi dan perdagangan internasional"
+          ]
+        },
+        {
+          "no": 10,
+          "elemen": "Akuntansi Keuangan Dasar",
+          "sub_elemen": "Persamaan dasar akuntansi dan laporan keuangan",
+          "kompetensi": [
+            "Menerapkan persamaan dasar akuntansi dan laporan keuangan"
+          ]
+        }
+      ]
+    }
+  }
+}
