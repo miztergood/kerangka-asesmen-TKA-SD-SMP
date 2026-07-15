@@ -1,0 +1,200 @@
+{
+  "framework": {
+    "name": "TKA Fisika SMA/Sederajat",
+    "sections": {
+      "definisi": {
+        "text": "TKA Fisika mengukur pemahaman konseptual, kemampuan berpikir kritis, dan penerapan prinsip-prinsip fisika dalam berbagai konteks kehidupan sehari-hari, serta keterampilan proses sains secara terpadu."
+      },
+      "muatan": {
+        "description": "Mencakup fenomena fisika dalam konteks lingkungan, makhluk hidup, teknologi, dan penyelidikan ilmiah.",
+        "elements": [
+          "Kinematika",
+          "Dinamika",
+          "Fluida",
+          "Gelombang",
+          "Kalor dan Termodinamika",
+          "Kelistrikan"
+        ],
+        "notes": [
+          "Pengetahuan fisika diukur melalui permasalahan dalam berbagai konteks: Fenomena fisika di lingkungan, Makhluk hidup, Teknologi, dan Percobaan/penyelidikan.",
+          "Selain mengukur konsep fisika, sebagian soal juga menguji keterampilan proses sains (mengamati, mempertanyakan/memprediksi, merencanakan/melakukan penyelidikan, serta menganalisis/mengomunikasikan data)."
+        ]
+      },
+      "kompetensi": [
+        {
+          "level": 1,
+          "name": "Pemahaman",
+          "english": "Knowing/Understanding",
+          "deskripsi": "Menggunakan pemahaman tentang konsep, hukum, prinsip, dan keterkaitan antar besaran untuk menjelaskan fenomena.",
+          "proses_berpikir": [
+            {
+              "nama": "Mengingat dan menjelaskan",
+              "deskripsi": "Mengingat informasi, mengklasifikasikan konsep, atau menjelaskan hubungan dasar tanpa perlu melakukan perhitungan atau analisis mendalam."
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Penerapan",
+          "english": "Applying",
+          "deskripsi": "Tidak hanya memahami konsep, tetapi juga mampu menggunakannya dalam menyelesaikan masalah kontekstual.",
+          "proses_berpikir": [
+            {
+              "nama": "Menerapkan dan menghitung",
+              "deskripsi": "Mengidentifikasi konsep yang sesuai dan menggunakannya untuk melakukan perhitungan sederhana hingga kompleks dengan menghubungkan konsep pada situasi nyata."
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Analisis dan Evaluasi",
+          "english": "Analyzing and Evaluating",
+          "deskripsi": "Menelaah dan mengevaluasi hubungan antar besaran fisika.",
+          "proses_berpikir": [
+            {
+              "nama": "Menganalisis, menyimpulkan, dan menilai",
+              "deskripsi": "Mencari tahu faktor-faktor yang mempengaruhi kejadian fisika, membangun argumen/alasan logis, membuat kesimpulan berdasarkan bukti, dan menilai kebenaran suatu prinsip fisika."
+            }
+          ]
+        }
+      ],
+      "matriks_asesmen": [
+        {
+          "no": 1,
+          "elemen": "Kinematika",
+          "sub_elemen": "Pengukuran",
+          "kompetensi": [
+            "Menelaah hasil pengukuran suatu besaran dengan alat ukur yang sesuai serta menyatakan hasil pengukuran sesuai aturan angka penting."
+          ],
+          "batasan_catatan": "Alat ukur dapat meliputi jangka sorong, mikrometer sekrup, neraca tiga lengan. Pelaporan hasil pengukuran mengikuti kaidah angka penting."
+        },
+        {
+          "no": 2,
+          "elemen": "Kinematika",
+          "sub_elemen": "Gerak Lurus",
+          "kompetensi": [
+            "Menganalisis keterkaitan beberapa besaran pada gerak lurus berdasarkan data yang ada untuk menyelesaikan masalah yang relevan."
+          ],
+          "batasan_catatan": "Gerak lurus: meliputi konsep gerak (jarak, perpindahan, kecepatan dengan memperhatikan besar dan arahnya), GLB, dan GLBB."
+        },
+        {
+          "no": 3,
+          "elemen": "Kinematika",
+          "sub_elemen": "Gerak Lengkung",
+          "kompetensi": [
+            "Mengaitkan hubungan antar variabel dalam gerak parabola dan gerak melingkar beraturan pada peristiwa dalam kehidupan sehari-hari."
+          ],
+          "batasan_catatan": "Gerak parabola: dibatasi pada gerak parabola dengan referensi bidang horizontal. Gerak melingkar: dibatasi pada gerak melingkar beraturan."
+        },
+        {
+          "no": 4,
+          "elemen": "Dinamika",
+          "sub_elemen": "Hubungan Gaya dan Gerak (Hukum Newton)",
+          "kompetensi": [
+            "Mengaitkan hubungan antara gaya dan gerak pada peristiwa yang terjadi dalam kehidupan sehari-hari."
+          ],
+          "batasan_catatan": "Hukum Newton 1, 2, dan 3, jenis-jenis gaya (dengan memperhatikan besar dan arahnya)."
+        },
+        {
+          "no": 5,
+          "elemen": "Dinamika",
+          "sub_elemen": "Momentum dan Impuls",
+          "kompetensi": [
+            "Menerapkan konsep momentum dan impuls bagi penyelesaian masalah sehari-hari."
+          ],
+          "batasan_catatan": "Konsep momentum & impuls, hukum kekekalan momentum."
+        },
+        {
+          "no": 6,
+          "elemen": "Dinamika",
+          "sub_elemen": "Dinamika Rotasi (Momen Gaya dan Momen Inersia)",
+          "kompetensi": [
+            "Menerapkan konsep momen gaya dan momen inersia yang dimanfaatkan dalam kehidupan sehari-hari."
+          ],
+          "batasan_catatan": "Momen gaya, momen inersia, Hukum Newton tentang rotasi."
+        },
+        {
+          "no": 7,
+          "elemen": "Fluida",
+          "sub_elemen": "Fluida Statis dan Dinamis",
+          "kompetensi": [
+            "Menerapkan konsep yang berkaitan dengan fluida statis dan dinamis pada teknologi yang dimanfaatkan dalam kehidupan sehari-hari."
+          ],
+          "batasan_catatan": "Tekanan fluida, Hukum Pascal, Hukum Archimedes, kontinuitas dan Hukum Bernoulli."
+        },
+        {
+          "no": 8,
+          "elemen": "Gelombang",
+          "sub_elemen": "Bunyi",
+          "kompetensi": [
+            "Menganalisis keterkaitan sifat bunyi dengan parameter gelombangnya berdasarkan peristiwa dalam kehidupan sehari-hari."
+          ],
+          "batasan_catatan": "Karakteristik gelombang mekanik dalam gelombang bunyi, sumber dan intensitas bunyi."
+        },
+        {
+          "no": 9,
+          "elemen": "Gelombang",
+          "sub_elemen": "Cahaya",
+          "kompetensi": [
+            "Menganalisis keterkaitan sifat cahaya dengan peristiwa dalam kehidupan sehari-hari serta penerapannya dalam cermin, lensa, dan alat optik."
+          ],
+          "batasan_catatan": "Karakteristik gelombang elektromagnetik, sifat cahaya serta penerapannya dalam cermin, lensa, dan alat optik."
+        },
+        {
+          "no": 10,
+          "elemen": "Kalor dan Termodinamika",
+          "sub_elemen": "Kalor dan Perpindahannya",
+          "kompetensi": [
+            "Menguraikan pengaruh kalor terhadap kenaikan suhu, perubahan wujud zat, serta faktor-faktor yang mempengaruhi perpindahan kalor dalam kehidupan sehari-hari."
+          ],
+          "batasan_catatan": "Kalor untuk perubahan suhu, perubahan wujud, pemuaian, perpindahan kalor, serta peristiwa pencampuran zat."
+        },
+        {
+          "no": 11,
+          "elemen": "Kalor dan Termodinamika",
+          "sub_elemen": "Pemanasan Global",
+          "kompetensi": [
+            "Menganalisis penyebab, proses, dan cara mengatasi permasalahan terkait dengan pemanasan global."
+          ],
+          "batasan_catatan": "Efek rumah kaca: fokus pada proses, penyebab, cara mengatasinya."
+        },
+        {
+          "no": 12,
+          "elemen": "Kalor dan Termodinamika",
+          "sub_elemen": "Gas Ideal",
+          "kompetensi": [
+            "Mengidentifikasi besaran tertentu pada perubahan suhu, tekanan, dan/atau volume gas ideal dalam ruang tertutup."
+          ],
+          "batasan_catatan": "Hukum Boyle, Boyle-Gay Lussac, dan persamaan gas ideal."
+        },
+        {
+          "no": 13,
+          "elemen": "Kalor dan Termodinamika",
+          "sub_elemen": "Termodinamika",
+          "kompetensi": [
+            "Menganalisis perubahan kalor, perubahan energi dalam, atau usaha dalam proses termodinamika."
+          ],
+          "batasan_catatan": "Empat proses termodinamika, hukum Termodinamik, mesin kalor."
+        },
+        {
+          "no": 14,
+          "elemen": "Kelistrikan",
+          "sub_elemen": "Listrik Statis",
+          "kompetensi": [
+            "Menganalisis keterkaitan besaran listrik statis dalam peristiwa yang terjadi dalam kehidupan sehari-hari."
+          ],
+          "batasan_catatan": "Gejala listrik statis, hukum Coulomb, medan listrik, potensial listrik, dan penerapannya."
+        },
+        {
+          "no": 15,
+          "elemen": "Kelistrikan",
+          "sub_elemen": "Rangkaian Arus Searah",
+          "kompetensi": [
+            "Menguraikan hubungan antara kuat arus, tegangan, dan hambatan dalam rangkaian listrik arus searah berdasarkan hukum-hukum kelistrikan."
+          ],
+          "batasan_catatan": "Hukum Ohm dan Hukum Kirchoff dibatasi pada rangkaian listrik campuran (seri-paralel) dengan arus searah hingga perhitungan daya."
+        }
+      ]
+    }
+  }
+}
