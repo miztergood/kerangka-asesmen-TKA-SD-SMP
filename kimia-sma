@@ -1,0 +1,182 @@
+{
+  "framework": {
+    "name": "TKA Kimia SMA/Sederajat",
+    "sections": {
+      "definisi": {
+        "text": "TKA Kimia mengukur kemampuan murid dalam penguasaan konsep kimia, menerapkan konsep kimia dalam penyelesaian permasalahan kimia, serta melakukan analisis pada permasalahan kimia yang terkait dengan materi kimia dalam kehidupan sehari-hari."
+      },
+      "muatan": {
+        "description": "TKA Kimia disusun berdasarkan materi kimia esensial pada Kurikulum 2013 dan Kurikulum Merdeka yang dirancang untuk mengukur pemahaman murid terhadap konsep-konsep dasar kimia dan pengaplikasiannya dalam berbagai konteks.",
+        "elements": [
+          "Kimia Dasar",
+          "Kimia Analitik",
+          "Kimia Fisik",
+          "Kimia Organik"
+        ],
+        "notes": [
+          "Konteks soal mencakup 4 area utama: Penyelidikan Ilmiah (Scientific Inquiry), Fenomena Kimia pada Kehidupan Sehari-hari (Everyday Chemical Phenomena), Aplikasi Kimia dalam Permasalahan Lingkungan, dan Aplikasi Konsep Kimia dalam Proses Industri."
+        ]
+      },
+      "kompetensi": [
+        {
+          "level": 1,
+          "name": "Pemahaman konsep kimia",
+          "english": "Knowing",
+          "proses_berpikir": [
+            {
+              "nama": "Mengenali (Recognize)",
+              "deskripsi": "Mengidentifikasi atau menyatakan fakta, hubungan, dan konsep; mengidentifikasi karakteristik fisika/kimia serta peran setiap komponen yang terdapat dalam sistem, materi, dan proses tertentu."
+            },
+            {
+              "nama": "Menjelaskan (Describe)",
+              "deskripsi": "Memberikan informasi atau penjelasan secara rinci berdasarkan konsep kimia/mendeskripsikan sifat dan struktur suatu materi serta proses atau fenomena kimia."
+            },
+            {
+              "nama": "Memberikan contoh (Provide Example)",
+              "deskripsi": "Menuliskan contoh yang berkaitan dengan suatu fenomena, kegunaan, maupun kerugian suatu materi/proses kimia yang relevan dalam kehidupan sehari-hari."
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Penerapan konsep kimia",
+          "english": "Applying",
+          "proses_berpikir": [
+            {
+              "nama": "Membandingkan/mengklasifikasikan (Compare/contrast/Classify)",
+              "deskripsi": "Menerapkan pengetahuan tentang fakta, hubungan, proses, konsep, dan metode ilmiah dalam menyelesaikan masalah sesuai konteks. Mengidentifikasi persamaan/perbedaan zat/proses kimia. Mengelompokkan berbagai zat/proses berdasarkan sifatnya."
+            },
+            {
+              "nama": "Menginterpretasikan suatu model (Interpret model)",
+              "deskripsi": "Menggunakan pengetahuan tentang konsep-konsep sains untuk menginterpretasikan proses, siklus, hubungan/sistem untuk menyelesaikan masalah kimia."
+            },
+            {
+              "nama": "Menginterpretasikan informasi (Interpret Information)",
+              "deskripsi": "Menggunakan pengetahuan atau konsep untuk menjelaskan informasi tekstual, tabular, gambar, dan grafis yang relevan termasuk melakukan perhitungan kimia."
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Penalaran",
+          "english": "Reasoning",
+          "proses_berpikir": [
+            {
+              "nama": "Memprediksi (Predict)",
+              "deskripsi": "Menganalisis hasil uraian atau perhitungan kimia dan memperkirakan hasil yang diperoleh dari penjelasan yang bersumber dari teori, konsep, hasil perhitungan, dan hasil analisis."
+            },
+            {
+              "nama": "Merancang (Design)",
+              "deskripsi": "Membuat model rancangan eksperimen, menguji hipotesis, menghubungkan variabel karakteristik material, dan mengaplikasikan prinsip ilmiah untuk menyelesaikan masalah di masyarakat atau industri."
+            },
+            {
+              "nama": "Mengevaluasi (Evaluate)",
+              "deskripsi": "Mengevaluasi fenomena yang berhubungan dengan kimia dalam kehidupan sehari-hari melalui proses penerapan teori, konsep, dan perhitungan kimia."
+            },
+            {
+              "nama": "Menarik kesimpulan (Draw Conclusion)",
+              "deskripsi": "Membuat kesimpulan berdasarkan penerapan teori, konsep, data, dan perhitungan kimia serta mampu menghubungkan antara penyebab dan akibat dalam suatu proses kimia."
+            },
+            {
+              "nama": "Menganalisis (Analyze)",
+              "deskripsi": "Menggunakan informasi yang relevan, konsep, hubungan antar parameter, dan data untuk menjawab pertanyaan dan menyelesaikan masalah."
+            },
+            {
+              "nama": "Menggeneralisasi (Generalize)",
+              "deskripsi": "Membuat kesimpulan dari suatu hasil penyelesaian masalah melalui pemahaman teori, konsep, perhitungan kimia, dan proses sintesis untuk diterapkan pada kondisi yang baru."
+            },
+            {
+              "nama": "Memberikan penjelasan disertai bukti (Justify)",
+              "deskripsi": "Menggunakan bukti dan pengetahuan sains untuk menjelaskan suatu fenomena guna mendukung penjelasan yang sulit dijelaskan alasannya atau penyelesaian masalah."
+            }
+          ]
+        }
+      ],
+      "matriks_asesmen": [
+        {
+          "no": 1,
+          "elemen": "Kimia Dasar",
+          "sub_elemen": "Struktur Atom dan Ikatan Kimia",
+          "kompetensi": [
+            "Mengidentifikasi konfigurasi elektron, kulit atom, dan elektron valensi suatu atom golongan utama dan menerapkannya dalam penentuan kestabilan elektron.",
+            "Menganalisis jenis ikatan kimia serta kaitannya dengan sifat fisik zat.",
+            "Menganalisis bentuk dan kepolaran molekul berdasarkan teori Pasangan Elektron Kulit Valensi (VSEPR) dan Teori Domain elektron.",
+            "Menganalisis hubungan jenis interaksi yang terjadi antar molekul dengan sifat fisika suatu zat."
+          ],
+          "batasan_catatan": "Mencakup konsep konfigurasi elektron, kulit atom, dan elektron valensi suatu atom dari golongan utama, geometri molekul, ikatan ion, ikatan kovalen, ikatan kovalen koordinasi, ikatan logam dan gaya antar molekul."
+        },
+        {
+          "no": 2,
+          "elemen": "Kimia Dasar",
+          "sub_elemen": "Stoikiometri",
+          "kompetensi": [
+            "Menerapkan perhitungan kimia untuk menyelesaikan masalah."
+          ],
+          "batasan_catatan": "Mencakup konsep mol, hukum perbandingan tetap (Hk. Proust), hukum perbandingan berganda (Hk Dalton), Hk. Avogadro, Hukum Gas, Hukum Kekekalan Massa, perhitungan kimia (massa molar, kadar zat, penyetaraan, pereaksi pembatas, rendemen, rumus empiris dan molekul)."
+        },
+        {
+          "no": 3,
+          "elemen": "Kimia Organik",
+          "sub_elemen": "Struktur dan Sifat Hidrokarbon",
+          "kompetensi": [
+            "Menganalisis sifat fisik dan kimia senyawa organik berdasarkan strukturnya serta mampu mendeskripsikan manfaatnya dalam kehidupan sehari-hari."
+          ],
+          "batasan_catatan": "Mencakup senyawa organik hidrokarbon (alkana, alkena, dan alkuna)."
+        },
+        {
+          "no": 4,
+          "elemen": "Kimia Analitik",
+          "sub_elemen": "Larutan dan sifatnya",
+          "kompetensi": [
+            "Menganalisis penerapan konsep konsentrasi dan daya hantar listrik larutan.",
+            "Menganalisis sifat larutan berdasarkan teori dan konsep asam basa.",
+            "Menganalisis parameter sifat koligatif larutan serta penerapannya dalam kehidupan sehari-hari."
+          ],
+          "batasan_catatan": "Mencakup hanya pada larutan dalam air dan konsentrasi larutan dalam satuan molar, normal, molal, fraksi mol, dan persen, kenaikan titik didih, penurunan titik beku, penurunan tekanan uap jenuh pelarut murni, dan tekanan osmosis pada larutan elektrolit dan non elektrolit."
+        },
+        {
+          "no": 5,
+          "elemen": "Kimia Analitik",
+          "sub_elemen": "Kesetimbangan dalam larutan berair",
+          "kompetensi": [
+            "Menganalisis pH larutan berdasarkan sifat asam dan basa.",
+            "Menganalisis konsep, sifat dan pH larutan penyangga serta penerapannya dalam kehidupan sehari-hari.",
+            "Menganalisis konsep hidrolisis dan pH larutan senyawa garam.",
+            "Menerapkan konsep titrasi asam basa untuk menyelesaikan masalah.",
+            "Menganalisis reaksi kesetimbangan senyawa yang sukar larut dalam air serta penerapannya dalam menyelesaikan masalah."
+          ],
+          "batasan_catatan": "Dalam konteks jika asam kuat, asam lemah, basa kuat, dan basa lemah dilarutkan dalam air, serta senyawa garam dan hidroksida sukar larut dalam air."
+        },
+        {
+          "no": 6,
+          "elemen": "Kimia Fisik",
+          "sub_elemen": "Elektrokimia",
+          "kompetensi": [
+            "Menganalisis komponen redoks dalam suatu reaksi kimia.",
+            "Menganalisis sel elektrokimia serta penerapannya dalam kehidupan sehari-hari."
+          ],
+          "batasan_catatan": "Mencakup konsep reduksi dan oksidasi serta penerapannya dalam Sel elektrokimia."
+        },
+        {
+          "no": 7,
+          "elemen": "Kimia Fisik",
+          "sub_elemen": "Energetika",
+          "kompetensi": [
+            "Menerapkan konsep energetika dalam suatu reaksi kimia untuk menyelesaikan masalah."
+          ],
+          "batasan_catatan": "Mencakup kalorimetri, hukum Hess, serta perhitungan yang melibatkan data entalpi reaksi standar dan energi disosiasi ikatan."
+        },
+        {
+          "no": 8,
+          "elemen": "Kimia Fisik",
+          "sub_elemen": "Dinamika",
+          "kompetensi": [
+            "Menganalisis konsep laju dalam suatu reaksi serta faktor-faktor yang dapat mempengaruhinya.",
+            "Menganalisis kesetimbangan dinamis serta berbagai faktor yang mempengaruhinya.",
+            "Menganalisis konsep/proses kimia yang berkaitan dengan reaksi kesetimbangan."
+          ]
+        }
+      ]
+    }
+  }
+}
