@@ -1,0 +1,176 @@
+{
+  "framework": {
+    "name": "TKA Sejarah SMA/Sederajat",
+    "sections": {
+      "definisi": {
+        "text": "TKA Sejarah bertujuan untuk mengukur kemampuan murid dalam memahami dan mengkaji peristiwa sejarah dalam konteks ruang dan waktu, serta mengembangkan kemampuan berpikir historis. Tes difokuskan pada kemampuan memahami perubahan, keberlanjutan, serta mengidentifikasi sebab-akibat dari peristiwa penting di Indonesia."
+      },
+      "muatan": {
+        "description": "Muatan TKA Sejarah mencakup peristiwa penting dalam sejarah Indonesia mulai dari periode Hindu-Budha hingga masa Reformasi.",
+        "elements": [
+          "Pengantar ilmu Sejarah",
+          "Periode Kerajaan Hindu-Buddha dan Islam",
+          "Perlawanan terhadap bangsa Eropa",
+          "Pergerakan nasional sampai proklamasi kemerdekaan",
+          "Revolusi kemerdekaan Indonesia sampai demokrasi terpimpin",
+          "Orde baru sampai reformasi"
+        ],
+        "notes": [
+          "TKA Sejarah menggunakan bacaan/ilustrasi berdasar sumber sejarah primer maupun sekunder, serta disertai kutipan dokumen, peta, tabel, dan foto.",
+          "Menekankan pada kronologi, sebab-akibat, serta kesinambungan dan perubahan dengan memperhatikan beragam perspektif dalam historiografi."
+        ]
+      },
+      "kompetensi": [
+        {
+          "level": 1,
+          "name": "Pemahaman",
+          "english": "Knowing",
+          "deskripsi": "Mengacu pada kemampuan dasar mengenali, mengingat, mengidentifikasi, dan memahami konsep-konsep serta informasi sejarah secara faktual. Murid diharapkan mampu menyebutkan tokoh, peristiwa, tanggal, tempat, serta istilah-istilah penting dalam sejarah."
+        },
+        {
+          "level": 2,
+          "name": "Penerapan",
+          "english": "Applying",
+          "deskripsi": "Menguji kemampuan menerapkan konsep dan informasi sejarah dalam berbagai konteks, menganalisis/menginterpretasikan data dan sumber sejarah, menyusun kronologi, menjelaskan hubungan sebab-akibat, serta membandingkan peristiwa sejarah."
+        },
+        {
+          "level": 3,
+          "name": "Penalaran",
+          "english": "Reasoning",
+          "deskripsi": "Berpikir kritis dan menalar secara logis dengan mengaitkan konsep sejarah terhadap fenomena sosial nyata. Termasuk mengevaluasi dan merefleksi informasi dari sumber, menyusun argumentasi berbasis fakta historis, dan simulasi penulisan historiografi."
+        }
+      ],
+      "matriks_asesmen": [
+        {
+          "no": 1,
+          "elemen": "Pengantar Ilmu Sejarah",
+          "sub_elemen": "Konsep Dasar Sejarah",
+          "kompetensi": [
+            "Menjelaskan dan menganalisis konsep perubahan, keberlanjutan, serta sebab-akibat untuk memahami pengaruh peristiwa sejarah terhadap fenomena sosial yang dialami murid."
+          ]
+        },
+        {
+          "no": 2,
+          "elemen": "Pengantar Ilmu Sejarah",
+          "sub_elemen": "Fenomena sejarah dalam kehidupan sehari-hari",
+          "kompetensi": [
+            "Menganalisis keterkaitan antara peristiwa sejarah masa lalu dan dinamika sosial budaya masyarakat masa kini dengan menggunakan prinsip perubahan, keberlanjutan, dan sebab-akibat."
+          ]
+        },
+        {
+          "no": 3,
+          "elemen": "Pengantar Ilmu Sejarah",
+          "sub_elemen": "Sumber-sumber sejarah",
+          "kompetensi": [
+            "Mengidentifikasi fungsi dan perbedaan antara sumber sejarah primer dan sekunder serta menganalisis penggunaannya untuk merekonstruksi peristiwa masa lalu secara kontekstual."
+          ]
+        },
+        {
+          "no": 4,
+          "elemen": "Periode Kerajaan Hindu-Buddha dan Islam",
+          "sub_elemen": "Kehidupan religi, budaya, politik, dan ekonomi masyarakat di Nusantara pada masa kerajaan Hindu-Buddha",
+          "kompetensi": [
+            "Mengevaluasi teori masuknya agama dan kebudayaan Hindu-Buddha ke Nusantara berdasarkan konsep dasar sejarah, menganalisis kehidupan politik dan ekonomi kerajaan-kerajaan Hindu-Buddha, serta mengklasifikasikan peninggalan budaya yang dihasilkannya."
+          ]
+        },
+        {
+          "no": 5,
+          "elemen": "Periode Kerajaan Hindu-Buddha dan Islam",
+          "sub_elemen": "Kehidupan religi, budaya, politik, dan ekonomi masyarakat di Nusantara pada masa kerajaan Islam",
+          "kompetensi": [
+            "Menganalisis hubungan antara masuknya agama dan kebudayaan Islam dengan perubahan dalam sistem politik, ekonomi, serta perkembangan budaya masyarakat Nusantara."
+          ]
+        },
+        {
+          "no": 6,
+          "elemen": "Perlawanan terhadap Bangsa Eropa",
+          "sub_elemen": "Proses kedatangan Bangsa Eropa ke Nusantara",
+          "kompetensi": [
+            "Menjelaskan dan menganalisis keterkaitan antara motivasi kedatangan bangsa Eropa dan perubahan sosial, ekonomi, serta politik di Nusantara dengan menggunakan pendekatan diakronik dan sinkronik."
+          ]
+        },
+        {
+          "no": 7,
+          "elemen": "Perlawanan terhadap Bangsa Eropa",
+          "sub_elemen": "Perlawanan terhadap Bangsa Eropa sebelum Abad ke-20",
+          "kompetensi": [
+            "Menganalisis keterkaitan antara kebijakan kolonial bangsa Eropa dan munculnya berbagai bentuk perlawanan rakyat Nusantara sebelum abad ke-20, serta mengevaluasi strategi perjuangan yang dilakukan."
+          ]
+        },
+        {
+          "no": 8,
+          "elemen": "Pergerakan Nasional sampai Proklamasi Kemerdekaan",
+          "sub_elemen": "Pergerakan Nasional Indonesia",
+          "kompetensi": [
+            "Mengidentifikasi dampak Politik Etis dan munculnya berbagai organisasi pada masa Pergerakan Nasional serta menganalisis strategi perlawanan yang dilakukan dalam berbagai bidang."
+          ]
+        },
+        {
+          "no": 9,
+          "elemen": "Pergerakan Nasional sampai Proklamasi Kemerdekaan",
+          "sub_elemen": "Relevansi semangat Pergerakan Nasional dengan masa kini",
+          "kompetensi": [
+            "Menganalisis relevansi nilai dan semangat perjuangan tokoh-tokoh pergerakan nasional dalam menghadapi tantangan kehidupan berbangsa dan bernegara di masa kini."
+          ]
+        },
+        {
+          "no": 10,
+          "elemen": "Pergerakan Nasional sampai Proklamasi Kemerdekaan",
+          "sub_elemen": "Kehidupan Bangsa Indonesia di bawah penjajahan Jepang dan perlawanan Bangsa Indonesia",
+          "kompetensi": [
+            "Mengevaluasi beberapa penjelasan tentang penyebab utama runtuhnya kekuasaan Belanda di Indonesia sebelum pendudukan Jepang, berdasarkan sumber sejarah yang relevan.",
+            "Menganalisis dampak kebijakan pendudukan Jepang di bidang politik, ekonomi, sosial, dan budaya terhadap kehidupan masyarakat Indonesia."
+          ]
+        },
+        {
+          "no": 11,
+          "elemen": "Pergerakan Nasional sampai Proklamasi Kemerdekaan",
+          "sub_elemen": "Peristiwa dan Makna Proklamasi Kemerdekaan Indonesia",
+          "kompetensi": [
+            "Menjelaskan dan menganalisis peristiwa pada masa proklamasi kemerdekaan Indonesia dan maknanya."
+          ]
+        },
+        {
+          "no": 12,
+          "elemen": "Revolusi Kemerdekaan Indonesia sampai Demokrasi Terpimpin",
+          "sub_elemen": "Perjuangan mempertahankan kemerdekaan",
+          "kompetensi": [
+            "Mendeskripsikan proses pembentukan negara dan pemerintahan Republik Indonesia setelah Proklamasi Kemerdekaan, serta menganalisis upaya perjuangan bangsa Indonesia dalam mempertahankan kemerdekaan melalui jalur diplomasi dan perjuangan fisik."
+          ]
+        },
+        {
+          "no": 13,
+          "elemen": "Revolusi Kemerdekaan Indonesia sampai Demokrasi Terpimpin",
+          "sub_elemen": "Kehidupan masyarakat Indonesia pada masa Demokrasi Liberal",
+          "kompetensi": [
+            "Menggunakan konsep kronologis untuk menjelaskan perkembangan politik dan ekonomi Indonesia pada masa Demokrasi Liberal berdasarkan peristiwa-peristiwa penting."
+          ]
+        },
+        {
+          "no": 14,
+          "elemen": "Revolusi Kemerdekaan Indonesia sampai Demokrasi Terpimpin",
+          "sub_elemen": "Kehidupan masyarakat pada masa Demokrasi Terpimpin",
+          "kompetensi": [
+            "Mengidentifikasi perkembangan politik dan ekonomi serta menganalisis dampak kebijakan pemerintah pada masa Demokrasi Terpimpin."
+          ]
+        },
+        {
+          "no": 15,
+          "elemen": "Orde Baru sampai Reformasi",
+          "sub_elemen": "Kehidupan Masyarakat pada Masa Orde Baru",
+          "kompetensi": [
+            "Menganalisis kronologi perubahan Demokrasi Terpimpin menjadi Orde Baru dengan menggunakan konsep sejarah serta mengevaluasi dampak kebijakan politik dan ekonomi Orde Baru terhadap kehidupan masyarakat Indonesia."
+          ]
+        },
+        {
+          "no": 16,
+          "elemen": "Orde Baru sampai Reformasi",
+          "sub_elemen": "Kehidupan Masyarakat pada Masa Reformasi",
+          "kompetensi": [
+            "Menganalisis proses lahirnya Reformasi dan peran pelajar serta mahasiswa sebagai pelaku sejarah, dengan menggunakan konsep perubahan dan kronologi, serta mengevaluasi dampak kebijakan politik dan ekonomi Reformasi terhadap kehidupan masyarakat Indonesia."
+          ]
+        }
+      ]
+    }
+  }
+}
