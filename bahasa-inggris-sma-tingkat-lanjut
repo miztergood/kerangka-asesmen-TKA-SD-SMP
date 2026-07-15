@@ -1,0 +1,81 @@
+{
+  "framework": {
+    "name": "TKA Bahasa Inggris Tingkat Lanjut SMA/Sederajat",
+    "sections": {
+      "definisi": {
+        "text": "TKA Bahasa Inggris Tingkat Lanjut berfokus pada keterampilan membaca teks berbahasa Inggris dalam berbagai situasi komunikasi sehari-hari, vokasional, dan akademik."
+      },
+      "muatan": {
+        "description": "Keterampilan membaca diujikan pada teks exposition dan teks discussion dengan konteks sehari-hari, vokasi, dan akademik.",
+        "elements": [
+          "teks exposition",
+          "teks discussion"
+        ],
+        "notes": [
+          "Topik yang digunakan mencakup teknologi dan isu-isu faktual.",
+          "Kompleksitas teks tingkat B2 (Upper-intermediate): panjang 300–400 kata, menggunakan kosakata berfrekuensi tinggi (hingga 4000 kata), dan struktur kalimat kompleks.",
+          "Kompleksitas teks tingkat B1 (Intermediate): panjang 250–350 kata, menggunakan kosakata berfrekuensi tinggi (hingga 3000 kata), dan struktur kalimat sederhana serta kompleks."
+        ]
+      },
+      "kompetensi": [
+        {
+          "level": 1,
+          "name": "Pemahaman Tekstual",
+          "english": "Textual Understanding",
+          "deskripsi": "Mampu memahami informasi yang secara eksplisit disebutkan dalam teks, mengelompokkan, menyusun ulang, dan menyajikan kembali informasi secara sistematis."
+        },
+        {
+          "level": 2,
+          "name": "Pemahaman Inferensial",
+          "english": "Inferential Understanding",
+          "deskripsi": "Mampu mengidentifikasi atau menyimpulkan informasi tersirat dalam teks, serta menghubungkannya dengan pengetahuan dan pengalaman yang relevan."
+        },
+        {
+          "level": 3,
+          "name": "Evaluasi dan Apresiasi",
+          "english": "Evaluation and Appreciation",
+          "deskripsi": "Mampu menilai kualitas argumen, keakuratan informasi, serta menanggapi teks secara kritis berdasarkan sudut pandang logis dan objektif."
+        }
+      ],
+      "matriks_asesmen": [
+        {
+          "no": 1,
+          "elemen": "Membaca",
+          "sub_elemen": "Pemahaman Tekstual",
+          "kompetensi": [
+            "Menemukan atau mengidentifikasi gagasan utama serta informasi penting yang secara eksplisit disebutkan dalam teks.",
+            "Mengelompokkan argumen, fakta, dan pendapat dalam teks berdasarkan kategori atau pola penyajian tertentu.",
+            "Menyusun poin-poin utama dalam teks ke dalam bentuk peta konsep, diagram, diagram alir, atau daftar untuk memahami struktur penyajian informasi.",
+            "Menyajikan kembali isi teks secara ringkas dengan tetap mempertahankan gagasan utama dan argumen kunci.",
+            "Menggabungkan informasi dari sumber lain untuk mendapatkan pemahaman yang lebih komprehensif tentang suatu isu atau topik."
+          ]
+        },
+        {
+          "no": 2,
+          "elemen": "Membaca",
+          "sub_elemen": "Pemahaman Inferensial",
+          "kompetensi": [
+            "Memperkirakan fakta tambahan yang mungkin dapat memperkuat atau memperjelas argumen dalam teks.",
+            "Menyimpulkan topik, ide pokok/gagasan utama, makna, target pembaca, tujuan penulisan teks, atau pesan moral yang tidak secara eksplisit dinyatakan dalam teks.",
+            "Menghubungkan berbagai argumen, alasan, dan bukti dalam teks untuk memahami logika penyajian informasi.",
+            "Menyimpulkan suatu peristiwa, kebijakan, atau fenomena dalam teks memengaruhi atau dipengaruhi oleh faktor lain.",
+            "Mengenali posisi atau sikap penulis terhadap suatu isu berdasarkan bahasa dan pilihan argumen yang digunakan.",
+            "Memperkirakan dampak dari suatu gagasan atau argumen yang disampaikan dalam teks."
+          ]
+        },
+        {
+          "no": 3,
+          "elemen": "Membaca",
+          "sub_elemen": "Evaluasi dan Apresiasi",
+          "kompetensi": [
+            "Mengevaluasi fakta atau opini dalam teks berdasarkan bukti-bukti pendukung yang disajikan penulis.",
+            "Menilai kredibilitas informasi dan cakupan perspektif dalam teks.",
+            "Menilai kesesuaian, kelengkapan, dan keakuratan informasi dalam teks dengan membandingkannya dengan sumber lain.",
+            "Mengevaluasi seberapa logis dan meyakinkan argumen yang disajikan dalam teks.",
+            "Memberikan opini atau refleksi mengenai isi teks dari sudut pandang yang berbeda."
+          ]
+        }
+      ]
+    }
+  }
+}
